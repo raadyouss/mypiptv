@@ -1,46 +1,46 @@
-#EXTM3U
-#EXTINF:-1: |AR|_Al_Manar_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
-#EXTINF:-1: ALMAYADEEN TV HD	
-http://world-ipsat.com:1155/live/najib/2018/2669.ts
-#EXTINF:-1: AR_NBN-LEBANON
-http://www.abraiptv.tn:5475/live/walid01/walid01/1212.ts
-#EXTINF:-1: AR_LBC_LIBANON
-http://www.abraiptv.tn:5475/live/walid01/walid01/339.ts
-#EXTINF:-1: AR_Ldc
-http://www.abraiptv.tn:5475/live/walid01/walid01/1000.ts
-#EXTINF:-1: AR_OTV_Liban
-http://www.abraiptv.tn:5475/live/walid01/walid01/1119.ts
-#EXTINF:-1: [AR] RT ARABIC HD
-http://world-ipsat.com:1155/live/najib/2018/109.ts
-#EXTINF:-1: |AR|_Syrian_Drama	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
-#EXTINF:-1: |AR|_SAMA_SYRIA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts
-#EXTINF:-1: |AR|_SAMA_SYRIA	
-http://world-ipsat.com:1155/live/najib/2018/2552.ts
-#EXTINF:-1:[AR] SYRIA HD
-http://world-ipsat.com:1155/live/najib/2018/2090.ts
-#EXTINF:-1: [AR] SYRIA NEWS HD
-http://world-ipsat.com:1155/live/najib/2018/241.ts
-#EXTINF:-1: [AR] SYRIA TV HD
-http://world-ipsat.com:1155/live/najib/2018/32.ts
-#EXTINF:-1: |AR|_Syrian_Drama
-http://world-ipsat.com:1155/live/najib/2018/2439.ts
-#EXTINF:-1: [AR] ALMAYADEEN TV HD
-http://world-ipsat.com:1155/live/najib/2018/2669.ts
-#EXTINF:-1: AL MANAR TV	
-http://world-ipsat.com:1155/live/najib/2018/1582.ts
-#EXTINF:-1: [AR] AL KAWTARE HD	
-http://world-ipsat.com:1155/live/najib/2018/45.ts
-#EXTINF:-1: Al Jadeed AR
-http://topiptv.net:5890/live/najehnajeh2018/30012018/141.ts
-#EXTINF:-1: |AR|_ABU_DHABI_TV	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
-#EXTINF:-1: |AR|_SAMA_DUBAI_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
-#EXTINF:-1: |AR|_DW_AR	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTM3U		
+#EXTINF:-1: |AR|_Al_Manar_TV		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts		
+#EXTINF:-1: ALMAYADEEN TV HD		
+http://world-ipsat.com:1155/live/najib/2018/2669.ts		
+#EXTINF:-1: AR_NBN-LEBANON		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1212.ts		
+#EXTINF:-1: AR_LBC_LIBANON		
+http://www.abraiptv.tn:5475/live/walid01/walid01/339.ts		
+#EXTINF:-1: AR_Ldc		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1000.ts		
+#EXTINF:-1: AR_OTV_Liban		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1119.ts		
+#EXTINF:-1: [AR] RT ARABIC HD		
+http://world-ipsat.com:1155/live/najib/2018/109.ts		
+#EXTINF:-1: |AR|_Syrian_Drama		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts		
+#EXTINF:-1: |AR|_SAMA_SYRIA		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts		
+#EXTINF:-1: |AR|_SAMA_SYRIA		
+http://world-ipsat.com:1155/live/najib/2018/2552.ts		
+#EXTINF:-1:[AR] SYRIA HD		
+http://world-ipsat.com:1155/live/najib/2018/2090.ts		
+#EXTINF:-1: [AR] SYRIA NEWS HD		
+http://world-ipsat.com:1155/live/najib/2018/241.ts		
+#EXTINF:-1: [AR] SYRIA TV HD		
+http://world-ipsat.com:1155/live/najib/2018/32.ts		
+#EXTINF:-1: |AR|_Syrian_Drama		
+http://world-ipsat.com:1155/live/najib/2018/2439.ts		
+#EXTINF:-1: [AR] ALMAYADEEN TV HD		
+http://world-ipsat.com:1155/live/najib/2018/2669.ts		
+#EXTINF:-1: AL MANAR TV		
+http://world-ipsat.com:1155/live/najib/2018/1582.ts		
+#EXTINF:-1: [AR] AL KAWTARE HD		
+http://world-ipsat.com:1155/live/najib/2018/45.ts		
+#EXTINF:-1: Al Jadeed AR		
+http://topiptv.net:5890/live/najehnajeh2018/30012018/141.ts		
+#EXTINF:-1: |AR|_ABU_DHABI_TV		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts		
+#EXTINF:-1: |AR|_SAMA_DUBAI_HD		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts		
+#EXTINF:-1: |AR|_DW_AR		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts		
 |AR|_DUBAI_ZAMAN	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
 |AR|_DUBAI_TV_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
 |AR|_SHARJAH_SPORTS	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
