@@ -1,1 +1,184 @@
-
+#EXTM3U		
+#EXTINF:-1: |AR|_Al_Manar_TV		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
+#EXTINF:-1: |AR|_Al_Jadeedd_TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/32.ts		
+#EXTINF:-1: ALMAYADEEN TV HD		
+http://world-ipsat.com:1155/live/najib/2018/2669.ts		
+#EXTINF:-1: AR_NBN-LEBANON		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1212.ts		
+#EXTINF:-1: AR_LBC_LIBANON		
+http://www.abraiptv.tn:5475/live/walid01/walid01/339.ts		
+#EXTINF:-1: AR_Ldc		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1000.ts		
+#EXTINF:-1: AR_OTV_Liban		
+http://www.abraiptv.tn:5475/live/walid01/walid01/1119.ts		
+#EXTINF:-1: [AR] RT ARABIC HD		
+http://world-ipsat.com:1155/live/najib/2018/109.ts		
+#EXTINF:-1: |AR|_Syrian_Drama		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts		
+#EXTINF:-1: |AR|_SAMA_SYRIA		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts		
+#EXTINF:-1: |AR|_SAMA_SYRIA		
+http://world-ipsat.com:1155/live/najib/2018/2552.ts		
+#EXTINF:-1:[AR] SYRIA HD		
+http://world-ipsat.com:1155/live/najib/2018/2090.ts		
+#EXTINF:-1: [AR] SYRIA NEWS HD		
+http://world-ipsat.com:1155/live/najib/2018/241.ts		
+#EXTINF:-1: [AR] SYRIA TV HD		
+http://world-ipsat.com:1155/live/najib/2018/32.ts		
+#EXTINF:-1: |AR|_Syrian_Drama		
+http://world-ipsat.com:1155/live/najib/2018/2439.ts		
+#EXTINF:-1: [AR] ALMAYADEEN TV HD		
+http://world-ipsat.com:1155/live/najib/2018/2669.ts		
+#EXTINF:-1: AL MANAR TV		
+http://world-ipsat.com:1155/live/najib/2018/1582.ts		
+#EXTINF:-1: [AR] AL KAWTARE HD		
+http://world-ipsat.com:1155/live/najib/2018/45.ts		
+#EXTINF:-1: Al Jadeed AR		
+http://topiptv.net:5890/live/najehnajeh2018/30012018/141.ts		
+#EXTINF:-1: |AR|_ABU_DHABI_TV		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts		
+#EXTINF:-1: |AR|_SAMA_DUBAI_HD		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts		
+#EXTINF:-1: |AR|_DW_AR		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts		
+|AR|_DUBAI_ZAMAN	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
+|AR|_DUBAI_TV_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
+|AR|_SHARJAH_SPORTS	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
+|AR|_DUBAI_RACING_1_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
+|AR|_DUBAI_RACING_2_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
+|AR|_DUBAI_SPORTS_3_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
+|AR|_SAUDI_2_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
+|AR|_MBC_1 www.iptv4sat.com	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
+|AR|_MBC_2	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
+|AR|_MBC_4	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
+|AR|_Majed_www.iptv4sat.com_Kids	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
+|AR|_Makkah_TV	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
+|AR|_AD_Drama	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
+|AR|_FRANCE_24_AR	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
+|AR|_Sky_News_Arabic	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
+|AR|_BBC_Arabic	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
+|AR|_RUSSIA ALYAOUM_TV	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
+|AR|_Space_Toon	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
+|AR|_CBC_Drama	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
+|AR|_Nahar_Drama_Egypt	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
+|AR|_Nahar_TV_Egypt	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
+|AR|_SHARQIYA_TV	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
+|AR|_ON_E	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
+[BEIN] BEIN MOVIES HD1 PREMIER	Waiting	http://world-ipsat.com:1155/live/najib/2018/3628.ts
+[BEIN] BEIN MOVIES HD2 ACTION	Waiting	http://world-ipsat.com:1155/live/najib/2018/3629.ts
+[BEIN] beINMOVIES HD3 DRAMA	Waiting	http://world-ipsat.com:1155/live/najib/2018/3875.ts
+[BEIN] BEIN MOVIES HD4 .FAMILY	Waiting	http://world-ipsat.com:1155/live/najib/2018/2979.ts
+[AR] BEIN AMC HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/5254.ts
+[AR] BEIN FOX HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/5253.ts
+[BEIN] BEIN  FOX ACTION MOVIES HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4176.ts
+[BEIN] BEIN FXHD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4175.ts
+[AR] BEIN MOVIES HD1 PREMIER.	Waiting	http://world-ipsat.com:1155/live/najib/2018/1602.ts
+[AR] BEIN MOVIES HD2 .ACTION	Waiting	http://world-ipsat.com:1155/live/najib/2018/1603.ts
+[AR] BEIN MOVIES HD3.DRAMA	Waiting	http://world-ipsat.com:1155/live/najib/2018/1604.ts
+[AR] BEIN MOVIES HD4 FAMILY	Waiting	http://world-ipsat.com:1155/live/najib/2018/1605.ts
+[AR] beIN SERIES HD1	Waiting	http://world-ipsat.com:1155/live/najib/2018/2157.ts
+[BEIN] BEIN FX.HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2024.ts
+[BEIN] BOOMERANG HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2473.ts
+[BEIN] FOX MOVIES FAMILY.	Waiting	http://world-ipsat.com:1155/live/najib/2018/5249.ts
+[BEIN] FOX MOVIES FAMILY	Waiting	http://world-ipsat.com:1155/live/najib/2018/97.ts
+[BEIN] JUNIOR HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4260.ts
+[BEIN] BOOOMERANG HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4262.ts
+[BEIN] BARAEM HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2332.ts
+[BEIN] JEEM	Waiting	http://world-ipsat.com:1155/live/najib/2018/1736.ts
+[BEIN] JUNIOR.	Waiting	http://world-ipsat.com:1155/live/najib/2018/1768.ts
+|AR| SAMIRA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4156.ts
+[AR] SAMIRA TV HD.	Waiting	http://world-ipsat.com:1155/live/najib/2018/1709.ts
+=====MyHD=====	Waiting	http://world-ipsat.com:1155/live/najib/2018/3022.ts
+[AR] MY MBC 1 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4188.ts
+[AR] MY MBC 2 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4187.ts
+[AR] MY MBC 3 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4186.ts
+[AR] MY MBC 4 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4185.ts
+[AR] MY MBC ACTION HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4184.ts
+[AR] MY MBC Drama HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4182.ts
+[AR] MY MBC PLUS DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4180.ts
+[AR] MY MBC MAX HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4183.ts
+[AR] MY MBC BOLLYWOOD HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4261.ts
+[AR] MY CINEMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/5252.ts
+[AR] MY ROTANA AFLAM HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4178.ts
+[AR] MY ROTANA CINIMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4179.ts
+[AR] MY ROTANA CLASSIC HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/5162.ts
+[AR] MY ROTANA DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4177.ts
+[AR] MBC 1 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1483.ts
+[AR] MBC 1HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/571.ts
+[AR] MBC 2 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1482.ts
+[AR] MBC 2 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/21.ts
+[AR] MBC 3 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1471.ts
+[AR] MBC 3HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/572.ts
+[AR] MBC 4 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1481.ts
+[AR] MBC 4 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/22.ts
+[AR] MBC ACTION HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1573.ts
+[AR] MBC Action	Waiting	http://world-ipsat.com:1155/live/najib/2018/3012.ts
+|AR| MBC Max HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/3013.ts
+[AR] MBC MAX HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/23.ts
+[AR] MBC DRAMA	Waiting	http://world-ipsat.com:1155/live/najib/2018/3011.ts
+[AR] MBC Drama HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/3014.ts
+[AR] MBC DRAMA SD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1294.ts
+[AR] MBC MASR HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1574.ts
+[AR] MBC MASR 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2143.ts
+[AR] MBC MASR 2SD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2088.ts
+[AR] B4U PLUS HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1572.ts
+[AR] MBC BOLLYWOOD HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/575.ts
+|AR| MBC BOLLYWOOD SD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2089.ts
+[AR] ZEE AFLAM HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/564.ts
+[AR] ZEE AFLAM HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2091.ts
+[AR] ZEE ALWAN HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/563.ts
+[OSN] BOX OFFICE 1HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2592.ts
+[OSN] BOX OFFICE 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2591.ts
+[OSN] BOX OFFICE 3HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2590.ts
+[OSN] BOX OFFICE 1 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/5.ts
+[OSN] BOX OFFICE 2 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/4.ts
+[OSN] BOX OFFICE 3 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/3.ts
+[OSN] ON DEMAND 1 HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/8.ts
+[OSN] ON DEMAND 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/7.ts
+[OSN] ON DEMAND 3HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/6.ts
+[OSN] ON DEMANDE EXTRA 1HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2278.ts
+[OSN] DEMANDE EXTRA 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2277.ts
+[OSN] MOVIES ACTION HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/9.ts
+[OSN] MOVIES ACTION +2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1284.ts
+[OSN] SEEVII DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2574.ts
+[OSN] MOVIES DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/12.ts
+[OSN] MOVIES KIDS HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/11.ts
+[OSN] MOVIES PREMIER HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/10.ts
+[OSN] MOVIES PREMIER 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2584.ts
+[OSN] MOVIES PREMIER +2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/578.ts
+[OSN] MOVIES COMEDY HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2589.ts
+[OSN] MOVIES COMEDY HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1292.ts
+[OSN] Star-Gold-HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/579.ts
+[OSN] MOVIES FESTIVAL HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1287.ts
+[OSN] MOVIES FAMILY HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/577.ts
+[OSN] MOVIES FIRST HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2583.ts
+[OSN] Movies Kids HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2567.ts
+[OSN] SEEVII OULA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2572.ts
+[OSN] SEEVII SHAMIYA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2516.ts
+[OSN] SEEVII BEELINK HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2573.ts
+[OSN] YAHALA CINIMA 1HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/576.ts
+[OSN] YAHALA CINIMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2576.ts
+[OSN]  OUTDOOR HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/3004.ts
+[OSN] SPORT 1HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2028.ts
+[OSN] Movies-Thriller HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2559.ts
+[OSN] MOVIES DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2582.ts
+[OSN] MOVIES 2HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2585.ts
+[OSN] MOVIES STAR HD-	Waiting	http://world-ipsat.com:1155/live/najib/2018/2586.ts
+[OSN] MOVIES DRAMA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2560.ts
+[AR]=|=Syria_Channel=|=[AR]	Waiting	http://world-ipsat.com:1155/live/najib/2018/2625.ts
+|AR|_SAMA_SYRIA	Waiting	http://world-ipsat.com:1155/live/najib/2018/2552.ts
+[AR] SYRIA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2090.ts
+[AR] SYRIA TARBAWIYA HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2086.ts
+[AR] SYRIA NEWS HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/241.ts
+[AR] HALAB TODAY HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/33.ts
+[AR] SYRIA TV HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/32.ts
+|AR|_Syrian_Drama	Waiting	http://world-ipsat.com:1155/live/najib/2018/2439.ts
+[AR] ALMAYADEEN TV HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/2669.ts
+[AR] AL MANAR TV	Waiting	http://world-ipsat.com:1155/live/najib/2018/1582.ts
+[AR] AL KAWTARE HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/45.ts
+[AR] ALALAM NEWS	Waiting	http://world-ipsat.com:1155/live/najib/2018/3877.ts
+[AR] DW ARABIC HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/26.ts
+[AR] SKY NEWS ARAIC HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/1754.ts
+[AR] RT ARABIC HD	Waiting	http://world-ipsat.com:1155/live/najib/2018/109.ts
