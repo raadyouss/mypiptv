@@ -1,9 +1,10 @@
 #EXTM3U	Waiting	
-|AR|_ABU_DHABI_TV	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
-|AR|_SAUDI_1_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/2.ts
-|AR|_SAMA_DUBAI_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
-|AR|_NOUR_DUBAI	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
-|AR|_DW_AR	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTINF:-1: |AR|_ABU_DHABI_TV	
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
+#EXTINF:-1: |AR|_SAMA_DUBAI_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
+#EXTINF:-1: |AR|_DW_AR	
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
 |AR|_DUBAI_ZAMAN	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
 |AR|_DUBAI_TV_HD	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
 |AR|_SHARJAH_SPORTS	Waiting	http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
