@@ -322,19 +322,35 @@ http://world-ipsat.com:1155/live/najib/2018/26.ts
 http://world-ipsat.com:1155/live/najib/2018/1754.ts
 #EXTINF:-1,[AR] RT ARABIC HD	
 http://world-ipsat.com:1155/live/najib/2018/109.ts
-#EXTINF:-1,FR: TF1 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/492.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/479.ts
-#EXTINF:-1,FR: France 3 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11438.ts
-#EXTINF:-1,FR: FRANCE 4 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/477.ts
-#EXTINF:-1,FR: FRANCE 5 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/476.ts
-#EXTINF:-1,FR: FRANCE Ô HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3201.ts
-#EXTINF:-1,FR: France 24
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10780.ts
-#EXTINF:-1,FR: M6 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/481.ts
+#EXTINF:-1,Al Maaref
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1151.ts
+EXTINF:-1,Al Sirat
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1212.ts
+EXTINF:-1,El Eiman TV
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2954.ts
+EXTINF:-1,Al Jadeed
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2048.ts
+EXTINF:-1,BE:LA UNE
+http://46.19.141.130:8000/live/talat/karaman/9324.ts
+EXTINF:-1,BE:LA DEUX
+http://46.19.141.130:8000/live/talat/karaman/9315.ts
+EXTINF:-1,BE:LA TROIS
+http://46.19.141.130:8000/live/talat/karaman/16270.ts
+EXTINF:-1,[FRE] 23
+http://134.19.181.172:8000/live/mm34/mm34/1012.ts
+EXTINF:-1,[FRE] 6ter HD
+http://134.19.181.172:8000/live/mm34/mm34/934.ts
+EXTINF:-1,[FRE] Disney Junior HD
+http://134.19.181.172:8000/live/mm34/mm34/662.ts
+EXTINF:-1,[FRE] France 2 HD
+http://134.19.181.172:8000/live/mm34/mm34/872.ts
+EXTINF:-1,[FRE] France 24
+http://134.19.181.172:8000/live/mm34/mm34/667.ts
+EXTINF:-1,[FRE] France 3
+http://134.19.181.172:8000/live/mm34/mm34/873.ts
+EXTINF:-1,[FRE] France 4 HD
+http://134.19.181.172:8000/live/mm34/mm34/611.ts
+EXTINF:-1,[FRE] France 5 HD
+http://134.19.181.172:8000/live/mm34/mm34/612.ts
+EXTINF:-1,[FRE] France O
+http://134.19.181.172:8000/live/mm34/mm34/666.ts
