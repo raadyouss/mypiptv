@@ -1,6 +1,6 @@
 #EXTM3U		
 #EXTINF:-1,Aljadeed
-http://ppp1.dyndns.org:8000/live/dmiptv/skypeuser/4626.ts
+http://ppp1.dyndns.org:8000/live/dmiptv/skypeuser/4626.m3u8
 #EXTINF:-1, Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1, BBC
