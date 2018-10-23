@@ -1,6 +1,6 @@
 #EXTM3U		
-#EXTINF:-1: |AR|_Al_Manar_TV		
-Arabic IPTV Channels TV Playlist
+#EXTINF:-1,Aljadeed
+http://ppp1.dyndns.org:8000/live/dmiptv/skypeuser/4626.ts
 #EXTINF:-1, Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1, BBC
@@ -17,7 +17,7 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 #EXTINF:-1, Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aljadeed AR" tvg-logo="" group-title="Arabic Tv",Aljadeed AR
+#EXTINF:-1,jadeed
 http://ppp1.dyndns.org:8000/live/iptvrestream/volkan/4626.m3u8
 #EXTINF:-1, ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
