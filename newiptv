@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/96px-Flag_of_Lebanon.svg.png" group-title="Lebanon",Lebanon TV
 #EXTINF:-1,Al Mayadeen 
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-#EXTINF:-1,Al Manar 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL_iz8v0OFBd2QIswhfBauI1F764nJWgpDIoRqzayzi1a1EObVA" group-title="LEBANON",Al Manar 
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/2w2h8gw.jpg" group-title="LEBANON",Al Maaref
 http://almaareftv.com:1935/live/12/playlist.m3u8
