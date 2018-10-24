@@ -89,4 +89,5 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,Sama TV 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8 
 #EXTINF:-1,Syria TV http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1,Nabd Syria http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1,Al Masirah 
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8 
