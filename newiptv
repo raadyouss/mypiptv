@@ -1,6 +1,6 @@
 #EXTM3
 #EXTINF:-1,~ Lebanon TV ~ 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://french.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="Lebanon",Lebanon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="AL MANAR" group-title="Lebanon",Lebanon TV
 #EXTINF:-1,Al Manar 
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://7al.net/wp-content/uploads/2015/09/Big3.jpg" group-title="Lebanon",Al Mayadeen 
