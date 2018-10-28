@@ -7,15 +7,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="Lebanon",Al Jadeed
 http://www.e900x.com:8000/live/kris/kris/6.m3u8
 #EXTINF:-1,ALMAYADEEN
-http://g.ddns.net:31000/live/Alex/alex1/342.m3u8
-#EXTINF:-1,Al Mayadeen TV
-http://www.e900x.com:8000/live/kris/kris/145.m3u8
-#EXTINF:-1, AL MAYADEEN2
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/760.m3u8
-#EXTINF:-1,AL MAYADEEN TV3
-http://51.255.76.200:8000/live/jBwp00JBH9ySxuH/qlNzOhpGMlgB1ga/2576.m3u8
-#EXTINF:-1,NEWS-AL MAYADEEN TV
-http://iptvdtv.sw1a2aa.com:25461/live/2tQ0WPMxd4/NTtNxSNBcB/13728.m3u8
+http://www.almayadeen.net/live.m3u8
 #EXTINF:-1,~ News TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
