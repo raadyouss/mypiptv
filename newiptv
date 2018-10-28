@@ -5,9 +5,30 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="Lebanon TV",Deutsche Welle 
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="Lebanon",Al Jadeed
-http://www.e900x.com:8000/live/kris/kris/6.m3u8
+http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
 #EXTINF:-1,ALMAYADEEN
-https://www.youtube.com/watch?v=GjhOcA-Rpt0
+#EXTINF:-1,Ar- OTV Lebnan
+http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
+#EXTINF:-1,Ar- Tel Lebanon
+http://m-iptv.net:6204/live/Erbil1/Erbil1/2737.m3u8
+#EXTINF:-1,AR – Al Jazeera Mubasher
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/805.m3u8
+#EXTINF:-1,AR : Abu Dhabi Nat Geo
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
+#EXTINF:-1,AR : Al Alam
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
+#EXTINF:-1,AR : LDC
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
+#EXTINF:-1,AR : MBC 2
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
+#EXTINF:-1,AR : MBC 4
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/794.m3u8
+#EXTINF:-1,AR : MBC 4 HD
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
+#EXTINF:-1,AR : MBC Action
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
+#EXTINF:-1,AR : MBC MAX
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
 #EXTINF:-1,~ News TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
