@@ -2,12 +2,18 @@
 #EXTINF:-1,~ Lebanon TV ~ 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg" group-title="Lebanon TV",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1,NBN
+http://source.vision-new.org:5000/live/sourcepanel1arab/Gk5j5zETv4/99996964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="Lebanon TV",Deutsche Welle 
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="Lebanon",Al Jadeed
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
+#EXTINF:-1,AR: Eljadeed
+http://source.vision-new.org:5000/live/sourcepanel1arab/Gk5j5zETv4/8121640.m3u8
 #EXTINF:-1,ALMAYADEEN
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22394.m3u8
+#EXTINF:-1,ALMAYADEEN2
+http://source.vision-new.org:5000/live/sourcepanel1arab/Gk5j5zETv4/812707.m3u8
 #EXTINF:-1,Ar- OTV Lebnan
 http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
 #EXTINF:-1,Ar- Tel Lebanon
