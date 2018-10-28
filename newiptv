@@ -4,35 +4,14 @@
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="Lebanon TV",Deutsche Welle 
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,~ News TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://7al.net/wp-content/uploads/2015/09/Big3.jpg" group-title="Lebanon",Al Mayadeen 
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,~ Religion TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/2w2h8gw.jpg" group-title="LEBANON",Al Maaref
 http://almaareftv.com:1935/live/12/playlist.m3u8
-#EXTINF:-1,LBCi 
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC Europe
-http://www.osltv.com/sniffs-s/lbc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen2
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/2w2h8gw.jpg" group-title="LEBANON",Al Maaref2
-http://almaareftv.com:1935/live/12/playlist.m3u8
-#EXTINF:-1,Al Jadeed
-http://watchfomny.tv/video/lebanon/aljadeed/aljadeed.m3u8	
-#EXTINF:-1,AR_NBN-LEBANON		
-http://www.abraiptv.tn:5475/live/walid01/walid01/1212.ts		
-#EXTINF:-1,AR_LBC_LIBANON		
-http://www.abraiptv.tn:5475/live/walid01/walid01/339.ts		
-#EXTINF:-1,AR_Ldc		
-http://www.abraiptv.tn:5475/live/walid01/walid01/1000.ts		
-#EXTINF:-1,AR_OTV_Liban		
-http://www.abraiptv.tn:5475/live/walid01/walid01/1119.ts
-#EXTINF:-1,~ IRAN TV ~
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ar.ifilmtv.com/img/colorize-logo-final.png" group-title="IRAN",iFilm (Arabic)
-http://178.32.255.199:1935/live/ifilmar/chunklist.m3u8
-#EXTINF:-1,BBC 
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8 
-#EXTINF:-1,Deutsche Welle 
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8 
 #EXTINF:-1,~ Syria TV ~ 
 #EXTINF:-1,Sama TV 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8 
@@ -51,20 +30,6 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvtvtv.ru/icons/syrian_education_tv.png" group-title="SYRIA",Syrian Education TV
 http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvtvtv.ru/icons/syrian_education_tv.png" group-title="SYRIA",Syrian Education TV *
-#EXTINF:-1,~ Yamen TV ~ 
-#EXTINF:-1,Al Masirah 
-http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-#EXTINF:-1,~ Cinema TV ~ 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1,~ News TV ~ 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",Russia Today
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 #EXTINF:-1,~ KUwAIT TV ~
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
@@ -94,339 +59,337 @@ http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png" group-title="OMAN",Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 #EXTINF:-1,~ MBC TV ~
-
-		
 #EXTINF:-1,[AR] RT ARABIC HD		
-http://world-ipsat.com:1155/live/najib/2018/109.ts		
+http://world-ipsat.com:1155/live/najib/2018/109.m3u8		
 #EXTINF:-1,|AR|_Syrian_Drama		
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.m3u8		
 #EXTINF:-1,|AR|_SAMA_SYRIA		
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.m3u8		
 #EXTINF:-1,|AR|_SAMA_SYRIA		
-http://world-ipsat.com:1155/live/najib/2018/2552.ts		
+http://world-ipsat.com:1155/live/najib/2018/2552.m3u8		
 #EXTINF:-1,[AR] SYRIA HD		
-http://world-ipsat.com:1155/live/najib/2018/2090.ts		
+http://world-ipsat.com:1155/live/najib/2018/2090.m3u8		
 #EXTINF:-1,[AR] SYRIA NEWS HD		
-http://world-ipsat.com:1155/live/najib/2018/241.ts		
+http://world-ipsat.com:1155/live/najib/2018/241.m3u8		
 #EXTINF:-1,[AR] SYRIA TV HD		
-http://world-ipsat.com:1155/live/najib/2018/32.ts		
+http://world-ipsat.com:1155/live/najib/2018/32.m3u8		
 #EXTINF:-1,|AR|_Syrian_Drama		
-http://world-ipsat.com:1155/live/najib/2018/2439.ts		
+http://world-ipsat.com:1155/live/najib/2018/2439.m3u8		
 #EXTINF:-1,[AR] ALMAYADEEN TV HD		
-http://world-ipsat.com:1155/live/najib/2018/2669.ts		
+http://world-ipsat.com:1155/live/najib/2018/2669.m3u8		
 #EXTINF:-1,AL MANAR TV		
-http://world-ipsat.com:1155/live/najib/2018/1582.ts		
+http://world-ipsat.com:1155/live/najib/2018/1582.m3u8		
 #EXTINF:-1,[AR] AL KAWTARE HD		
-http://world-ipsat.com:1155/live/najib/2018/45.ts		
+http://world-ipsat.com:1155/live/najib/2018/45.m3u8		
 #EXTINF:-1,Al Jadeed AR		
-http://topiptv.net:5890/live/najehnajeh2018/30012018/141.ts		
+http://topiptv.net:5890/live/najehnajeh2018/30012018/141.m3u8		
 #EXTINF:-1,|AR|_ABU_DHABI_TV		
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.m3u8		
 #EXTINF:-1,|AR|_SAMA_DUBAI_HD		
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts		
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.m3u8		
 #EXTINF:-1,|AR|_DW_AR		
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.m3u8
 #EXTINF:-1,|AR|_DUBAI_ZAMAN	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
 #EXTINF:-1,|AR|_DUBAI_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.m3u8
 #EXTINF:-1,|AR|_SHARJAH_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.m3u8
 #EXTINF:-1,|AR|_DUBAI_RACING_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
 #EXTINF:-1,|AR|_DUBAI_RACING_2_HD	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
 #EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 #EXTINF:-1,|AR|_SAUDI_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.m3u8
 #EXTINF:-1,|AR|_MBC_1 www.iptv4sat.com	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
 #EXTINF:-1,|AR|_MBC_2	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
 #EXTINF:-1,|AR|_MBC_4
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.m3u8
 #EXTINF:-1,|AR|_Majed_www.iptv4sat.com_Kids
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.m3u8
 #EXTINF:-1,|AR|_Makkah_TV	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.m3u8
 #EXTINF:-1,|AR|_AD_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
 #EXTINF:-1,|AR|_FRANCE_24_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.m3u8
 #EXTINF:-1,|AR|_Sky_News_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.m3u8
 #EXTINF:-1,|AR|_BBC_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.m3u8
 #EXTINF:-1,|AR|_RUSSIA ALYAOUM_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.m3u8
 #EXTINF:-1,|AR|_Space_Toon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.m3u8
 #EXTINF:-1,|AR|_CBC_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.m3u8
 #EXTINF:-1,|AR|_Nahar_Drama_Egypt
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.m3u8
 #EXTINF:-1,|AR|_Nahar_TV_Egypt	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.m3u8
 #EXTINF:-1,|AR|_SHARQIYA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.m3u8
 #EXTINF:-1,|AR|_ON_E	
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.m3u8
 #EXTINF:-1,[BEIN] BEIN MOVIES HD1 PREMIER
-http://world-ipsat.com:1155/live/najib/2018/3628.ts
+http://world-ipsat.com:1155/live/najib/2018/3628.m3u8
 #EXTINF:-1,[BEIN] BEIN MOVIES HD2 ACTION
-http://world-ipsat.com:1155/live/najib/2018/3629.ts
+http://world-ipsat.com:1155/live/najib/2018/3629.m3u8
 #EXTINF:-1,[BEIN] beINMOVIES HD3 DRAMA	
-http://world-ipsat.com:1155/live/najib/2018/3875.ts
+http://world-ipsat.com:1155/live/najib/2018/3875.m3u8
 #EXTINF:-1,[BEIN] BEIN MOVIES HD4 .FAMILY	
-http://world-ipsat.com:1155/live/najib/2018/2979.ts
+http://world-ipsat.com:1155/live/najib/2018/2979.m3u8
 #EXTINF:-1,[AR] BEIN AMC HD
-http://world-ipsat.com:1155/live/najib/2018/5254.ts
+http://world-ipsat.com:1155/live/najib/2018/5254.m3u8
 #EXTINF:-1,[AR] BEIN FOX HD
-http://world-ipsat.com:1155/live/najib/2018/5253.ts
+http://world-ipsat.com:1155/live/najib/2018/5253.m3u8
 #EXTINF:-1,[BEIN] BEIN  FOX ACTION MOVIES HD
-http://world-ipsat.com:1155/live/najib/2018/4176.ts
+http://world-ipsat.com:1155/live/najib/2018/4176.m3u8
 #EXTINF:-1,[BEIN] BEIN FXHD	
-http://world-ipsat.com:1155/live/najib/2018/4175.ts
+http://world-ipsat.com:1155/live/najib/2018/4175.m3u8
 #EXTINF:-1,[AR] BEIN MOVIES HD1 PREMIER.
-http://world-ipsat.com:1155/live/najib/2018/1602.ts
+http://world-ipsat.com:1155/live/najib/2018/1602.m3u8
 #EXTINF:-1,[AR] BEIN MOVIES HD2 .ACTION	
-http://world-ipsat.com:1155/live/najib/2018/1603.ts
+http://world-ipsat.com:1155/live/najib/2018/1603.m3u8
 #EXTINF:-1,[AR] BEIN MOVIES HD3.DRAMA
-http://world-ipsat.com:1155/live/najib/2018/1604.ts
+http://world-ipsat.com:1155/live/najib/2018/1604.m3u8
 #EXTINF:-1,[AR] BEIN MOVIES HD4 FAMILY	
-http://world-ipsat.com:1155/live/najib/2018/1605.ts
+http://world-ipsat.com:1155/live/najib/2018/1605.m3u8
 #EXTINF:-1,[AR] beIN SERIES HD1
-http://world-ipsat.com:1155/live/najib/2018/2157.ts
+http://world-ipsat.com:1155/live/najib/2018/2157.m3u8
 #EXTINF:-1,[BEIN] BEIN FX.HD
-http://world-ipsat.com:1155/live/najib/2018/2024.ts
+http://world-ipsat.com:1155/live/najib/2018/2024.m3u8
 #EXTINF:-1,[BEIN] BOOMERANG HD
-http://world-ipsat.com:1155/live/najib/2018/2473.ts
+http://world-ipsat.com:1155/live/najib/2018/2473.m3u8
 #EXTINF:-1,[BEIN] FOX MOVIES FAMILY.
-http://world-ipsat.com:1155/live/najib/2018/5249.ts
+http://world-ipsat.com:1155/live/najib/2018/5249.m3u8
 #EXTINF:-1,[BEIN] FOX MOVIES FAMILY	
-http://world-ipsat.com:1155/live/najib/2018/97.ts
+http://world-ipsat.com:1155/live/najib/2018/97.m3u8
 #EXTINF:-1,[BEIN] JUNIOR HD
-http://world-ipsat.com:1155/live/najib/2018/4260.ts
+http://world-ipsat.com:1155/live/najib/2018/4260.m3u8
 #EXTINF:-1,[BEIN] BOOOMERANG HD
-http://world-ipsat.com:1155/live/najib/2018/4262.ts
+http://world-ipsat.com:1155/live/najib/2018/4262.m3u8
 #EXTINF:-1,[BEIN] JUNIOR.	
-http://world-ipsat.com:1155/live/najib/2018/1768.ts
+http://world-ipsat.com:1155/live/najib/2018/1768.m3u8
 #EXTINF:-1,|AR| SAMIRA HD
-http://world-ipsat.com:1155/live/najib/2018/4156.ts
+http://world-ipsat.com:1155/live/najib/2018/4156.m3u8
 #EXTINF:-1,[AR] SAMIRA TV HD.
-http://world-ipsat.com:1155/live/najib/2018/1709.ts
+http://world-ipsat.com:1155/live/najib/2018/1709.m3u8
 #EXTINF:-1,=====MyHD=====	
-http://world-ipsat.com:1155/live/najib/2018/3022.ts
+http://world-ipsat.com:1155/live/najib/2018/3022.m3u8
 #EXTINF:-1,[AR] MY MBC 1 HD
-http://world-ipsat.com:1155/live/najib/2018/4188.ts
+http://world-ipsat.com:1155/live/najib/2018/4188.m3u8
 #EXTINF:-1,[AR] MY MBC 2 HD
-http://world-ipsat.com:1155/live/najib/2018/4187.ts
+http://world-ipsat.com:1155/live/najib/2018/4187.m3u8
 #EXTINF:-1,[AR] MY MBC 3 HD
-http://world-ipsat.com:1155/live/najib/2018/4186.ts
+http://world-ipsat.com:1155/live/najib/2018/4186.m3u8
 #EXTINF:-1,[AR] MY MBC 4 HD
-http://world-ipsat.com:1155/live/najib/2018/4185.ts
+http://world-ipsat.com:1155/live/najib/2018/4185.m3u8
 #EXTINF:-1,[AR] MY MBC ACTION HD
-http://world-ipsat.com:1155/live/najib/2018/4184.ts
+http://world-ipsat.com:1155/live/najib/2018/4184.m3u8
 #EXTINF:-1,[AR] MY MBC Drama HD
-http://world-ipsat.com:1155/live/najib/2018/4182.ts
+http://world-ipsat.com:1155/live/najib/2018/4182.m3u8
 #EXTINF:-1,[AR] MY MBC PLUS DRAMA HD
-http://world-ipsat.com:1155/live/najib/2018/4180.ts
+http://world-ipsat.com:1155/live/najib/2018/4180.m3u8
 #EXTINF:-1,[AR] MY MBC MAX HD	
-http://world-ipsat.com:1155/live/najib/2018/4183.ts
+http://world-ipsat.com:1155/live/najib/2018/4183.m3u8
 #EXTINF:-1,[AR] MY MBC BOLLYWOOD HD
-http://world-ipsat.com:1155/live/najib/2018/4261.ts
+http://world-ipsat.com:1155/live/najib/2018/4261.m3u8
 #EXTINF:-1,[AR] MY CINEMA HD
-http://world-ipsat.com:1155/live/najib/2018/5252.ts
+http://world-ipsat.com:1155/live/najib/2018/5252.m3u8
 #EXTINF:-1,[AR] MY ROTANA AFLAM HD
-http://world-ipsat.com:1155/live/najib/2018/4178.ts
+http://world-ipsat.com:1155/live/najib/2018/4178.m3u8
 #EXTINF:-1,[AR] MY ROTANA CINIMA HD
-http://world-ipsat.com:1155/live/najib/2018/4179.ts
+http://world-ipsat.com:1155/live/najib/2018/4179.m3u8
 #EXTINF:-1,[AR] MY ROTANA CLASSIC HD
-http://world-ipsat.com:1155/live/najib/2018/5162.ts
+http://world-ipsat.com:1155/live/najib/2018/5162.m3u8
 #EXTINF:-1,[AR] MY ROTANA DRAMA HD
-http://world-ipsat.com:1155/live/najib/2018/4177.ts
+http://world-ipsat.com:1155/live/najib/2018/4177.m3u8
 #EXTINF:-1,[AR] MBC 1 HD
-http://world-ipsat.com:1155/live/najib/2018/1483.ts
+http://world-ipsat.com:1155/live/najib/2018/1483.m3u8
 #EXTINF:-1,[AR] MBC 1HD
-http://world-ipsat.com:1155/live/najib/2018/571.ts
+http://world-ipsat.com:1155/live/najib/2018/571.m3u8
 #EXTINF:-1,[AR] MBC 2 HD
-http://world-ipsat.com:1155/live/najib/2018/1482.ts
+http://world-ipsat.com:1155/live/najib/2018/1482.m3u8
 #EXTINF:-1,[AR] MBC 2 HD	
-http://world-ipsat.com:1155/live/najib/2018/21.ts
+http://world-ipsat.com:1155/live/najib/2018/21.m3u8
 #EXTINF:-1,[AR] MBC 3 HD	
-http://world-ipsat.com:1155/live/najib/2018/1471.ts
+http://world-ipsat.com:1155/live/najib/2018/1471.m3u8
 #EXTINF:-1,[AR] MBC 3HD
-http://world-ipsat.com:1155/live/najib/2018/572.ts
+http://world-ipsat.com:1155/live/najib/2018/572.m3u8
 #EXTINF:-1,[AR] MBC 4 HD
-http://world-ipsat.com:1155/live/najib/2018/1481.ts
+http://world-ipsat.com:1155/live/najib/2018/1481.m3u8
 #EXTINF:-1,[AR] MBC 4 HD	
-http://world-ipsat.com:1155/live/najib/2018/22.ts
+http://world-ipsat.com:1155/live/najib/2018/22.m3u8
 #EXTINF:-1,[AR] MBC ACTION HD
-http://world-ipsat.com:1155/live/najib/2018/1573.ts
+http://world-ipsat.com:1155/live/najib/2018/1573.m3u8
 #EXTINF:-1,|AR| MBC Max HD	
-http://world-ipsat.com:1155/live/najib/2018/3013.ts
+http://world-ipsat.com:1155/live/najib/2018/3013.m3u8
 #EXTINF:-1,[AR] MBC MAX HD
-http://world-ipsat.com:1155/live/najib/2018/23.ts
+http://world-ipsat.com:1155/live/najib/2018/23.m3u8
 #EXTINF:-1,[AR] MBC DRAMA
-http://world-ipsat.com:1155/live/najib/2018/3011.ts
+http://world-ipsat.com:1155/live/najib/2018/3011.m3u8
 #EXTINF:-1,[AR] MBC Drama HD	
-http://world-ipsat.com:1155/live/najib/2018/3014.ts
+http://world-ipsat.com:1155/live/najib/2018/3014.m3u8
 #EXTINF:-1,[AR] MBC DRAMA SD	
-http://world-ipsat.com:1155/live/najib/2018/1294.ts
+http://world-ipsat.com:1155/live/najib/2018/1294.m3u8
 #EXTINF:-1,[AR] MBC MASR HD
-http://world-ipsat.com:1155/live/najib/2018/1574.ts
+http://world-ipsat.com:1155/live/najib/2018/1574.m3u8
 #EXTINF:-1,[AR] MBC MASR 2HD	
-http://world-ipsat.com:1155/live/najib/2018/2143.ts
+http://world-ipsat.com:1155/live/najib/2018/2143.m3u8
 #EXTINF:-1,[AR] MBC MASR 2SD
-http://world-ipsat.com:1155/live/najib/2018/2088.ts
+http://world-ipsat.com:1155/live/najib/2018/2088.m3u8
 #EXTINF:-1,[AR] B4U PLUS HD	
-http://world-ipsat.com:1155/live/najib/2018/1572.ts
+http://world-ipsat.com:1155/live/najib/2018/1572.m3u8
 #EXTINF:-1,[AR] MBC BOLLYWOOD HD	
-http://world-ipsat.com:1155/live/najib/2018/575.ts
+http://world-ipsat.com:1155/live/najib/2018/575.m3u8
 #EXTINF:-1,|AR| MBC BOLLYWOOD SD	
-http://world-ipsat.com:1155/live/najib/2018/2089.ts
+http://world-ipsat.com:1155/live/najib/2018/2089.m3u8
 #EXTINF:-1,[AR] ZEE AFLAM HD
-http://world-ipsat.com:1155/live/najib/2018/564.ts
+http://world-ipsat.com:1155/live/najib/2018/564.m3u8
 #EXTINF:-1,[AR] ZEE AFLAM HD
-http://world-ipsat.com:1155/live/najib/2018/2091.ts
+http://world-ipsat.com:1155/live/najib/2018/2091.m3u8
 #EXTINF:-1,[AR] ZEE ALWAN HD
-http://world-ipsat.com:1155/live/najib/2018/563.ts
+http://world-ipsat.com:1155/live/najib/2018/563.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 1HD
-http://world-ipsat.com:1155/live/najib/2018/2592.ts
+http://world-ipsat.com:1155/live/najib/2018/2592.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 2HD
-http://world-ipsat.com:1155/live/najib/2018/2591.ts
+http://world-ipsat.com:1155/live/najib/2018/2591.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 3HD
-http://world-ipsat.com:1155/live/najib/2018/2590.ts
+http://world-ipsat.com:1155/live/najib/2018/2590.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 1 HD	
-http://world-ipsat.com:1155/live/najib/2018/5.ts
+http://world-ipsat.com:1155/live/najib/2018/5.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 2 HD
-http://world-ipsat.com:1155/live/najib/2018/4.ts
+http://world-ipsat.com:1155/live/najib/2018/4.m3u8
 #EXTINF:-1,[OSN] BOX OFFICE 3 HD
-http://world-ipsat.com:1155/live/najib/2018/3.ts
+http://world-ipsat.com:1155/live/najib/2018/3.m3u8
 #EXTINF:-1,[OSN] ON DEMAND 1 HD
-http://world-ipsat.com:1155/live/najib/2018/8.ts
+http://world-ipsat.com:1155/live/najib/2018/8.m3u8
 #EXTINF:-1,[OSN] ON DEMAND 2HD
-http://world-ipsat.com:1155/live/najib/2018/7.ts
+http://world-ipsat.com:1155/live/najib/2018/7.m3u8
 #EXTINF:-1,[OSN] ON DEMAND 3HD
-http://world-ipsat.com:1155/live/najib/2018/6.ts
+http://world-ipsat.com:1155/live/najib/2018/6.m3u8
 #EXTINF:-1,[OSN] ON DEMANDE EXTRA 1HD
-http://world-ipsat.com:1155/live/najib/2018/2278.ts
+http://world-ipsat.com:1155/live/najib/2018/2278.m3u8
 #EXTINF:-1,[OSN] DEMANDE EXTRA 2HD
-http://world-ipsat.com:1155/live/najib/2018/2277.ts
+http://world-ipsat.com:1155/live/najib/2018/2277.m3u8
 #EXTINF:-1,[OSN] MOVIES ACTION HD
-http://world-ipsat.com:1155/live/najib/2018/9.ts
+http://world-ipsat.com:1155/live/najib/2018/9.m3u8
 #EXTINF:-1,[OSN] MOVIES ACTION +2HD	
-http://world-ipsat.com:1155/live/najib/2018/1284.ts
+http://world-ipsat.com:1155/live/najib/2018/1284.m3u8
 #EXTINF:-1,[OSN] SEEVII DRAMA HD
-http://world-ipsat.com:1155/live/najib/2018/2574.ts
+http://world-ipsat.com:1155/live/najib/2018/2574.m3u8
 #EXTINF:-1,[OSN] MOVIES DRAMA HD
-http://world-ipsat.com:1155/live/najib/2018/12.ts
+http://world-ipsat.com:1155/live/najib/2018/12.m3u8
 #EXTINF:-1,[OSN] MOVIES KIDS HD
-http://world-ipsat.com:1155/live/najib/2018/11.ts
+http://world-ipsat.com:1155/live/najib/2018/11.m3u8
 #EXTINF:-1,[OSN] MOVIES PREMIER HD
-http://world-ipsat.com:1155/live/najib/2018/10.ts
+http://world-ipsat.com:1155/live/najib/2018/10.m3u8
 #EXTINF:-1,[OSN] MOVIES PREMIER 2HD
-http://world-ipsat.com:1155/live/najib/2018/2584.ts
+http://world-ipsat.com:1155/live/najib/2018/2584.m3u8
 #EXTINF:-1,[OSN] MOVIES PREMIER +2HD
-http://world-ipsat.com:1155/live/najib/2018/578.ts
+http://world-ipsat.com:1155/live/najib/2018/578.m3u8
 #EXTINF:-1,[OSN] MOVIES COMEDY HD	
-http://world-ipsat.com:1155/live/najib/2018/2589.ts
+http://world-ipsat.com:1155/live/najib/2018/2589.m3u8
 #EXTINF:-1,[OSN] MOVIES COMEDY HD	
-http://world-ipsat.com:1155/live/najib/2018/1292.ts
+http://world-ipsat.com:1155/live/najib/2018/1292.m3u8
 #EXTINF:-1,[OSN] Star-Gold-HD	
-http://world-ipsat.com:1155/live/najib/2018/579.ts
+http://world-ipsat.com:1155/live/najib/2018/579.m3u8
 #EXTINF:-1,[OSN] MOVIES FESTIVAL HD
-http://world-ipsat.com:1155/live/najib/2018/1287.ts
+http://world-ipsat.com:1155/live/najib/2018/1287.m3u8
 #EXTINF:-1,[OSN] MOVIES FAMILY HD
-http://world-ipsat.com:1155/live/najib/2018/577.ts
+http://world-ipsat.com:1155/live/najib/2018/577.m3u8
 #EXTINF:-1,[OSN] MOVIES FIRST HD
-http://world-ipsat.com:1155/live/najib/2018/2583.ts
+http://world-ipsat.com:1155/live/najib/2018/2583.m3u8
 #EXTINF:-1,[OSN] Movies Kids HD	
-http://world-ipsat.com:1155/live/najib/2018/2567.ts
+http://world-ipsat.com:1155/live/najib/2018/2567.m3u8
 #EXTINF:-1,[OSN] SEEVII OULA HD	
-http://world-ipsat.com:1155/live/najib/2018/2572.ts
+http://world-ipsat.com:1155/live/najib/2018/2572.m3u8
 #EXTINF:-1,[OSN] SEEVII SHAMIYA HD
-http://world-ipsat.com:1155/live/najib/2018/2516.ts
+http://world-ipsat.com:1155/live/najib/2018/2516.m3u8
 #EXTINF:-1,[OSN] SEEVII BEELINK HD
-http://world-ipsat.com:1155/live/najib/2018/2573.ts
+http://world-ipsat.com:1155/live/najib/2018/2573.m3u8
 #EXTINF:-1,[OSN] YAHALA CINIMA 1HD
-http://world-ipsat.com:1155/live/najib/2018/576.ts
+http://world-ipsat.com:1155/live/najib/2018/576.m3u8
 #EXTINF:-1,[OSN] YAHALA CINIMA HD	
-http://world-ipsat.com:1155/live/najib/2018/2576.ts
+http://world-ipsat.com:1155/live/najib/2018/2576.m3u8
 #EXTINF:-1,[OSN]  OUTDOOR HD
-http://world-ipsat.com:1155/live/najib/2018/3004.ts
+http://world-ipsat.com:1155/live/najib/2018/3004.m3u8
 #EXTINF:-1,[OSN] SPORT 1HD	
-http://world-ipsat.com:1155/live/najib/2018/2028.ts
+http://world-ipsat.com:1155/live/najib/2018/2028.m3u8
 #EXTINF:-1,[OSN] Movies-Thriller HD
-http://world-ipsat.com:1155/live/najib/2018/2559.ts
+http://world-ipsat.com:1155/live/najib/2018/2559.m3u8
 #EXTINF:-1,[OSN] MOVIES DRAMA HD
-http://world-ipsat.com:1155/live/najib/2018/2582.ts
+http://world-ipsat.com:1155/live/najib/2018/2582.m3u8
 #EXTINF:-1,[OSN] MOVIES 2HD
-http://world-ipsat.com:1155/live/najib/2018/2585.ts
+http://world-ipsat.com:1155/live/najib/2018/2585.m3u8
 #EXTINF:-1,[OSN] MOVIES STAR HD
-http://world-ipsat.com:1155/live/najib/2018/2586.ts
+http://world-ipsat.com:1155/live/najib/2018/2586.m3u8
 #EXTINF:-1,[OSN] MOVIES DRAMA HD	
-http://world-ipsat.com:1155/live/najib/2018/2560.ts
+http://world-ipsat.com:1155/live/najib/2018/2560.m3u8
 #EXTINF:-1,[AR]=|=Syria_Channel=|=[AR]	
-http://world-ipsat.com:1155/live/najib/2018/2625.ts
+http://world-ipsat.com:1155/live/najib/2018/2625.m3u8
 #EXTINF:-1,|AR|_SAMA_SYRIA
-http://world-ipsat.com:1155/live/najib/2018/2552.ts
+http://world-ipsat.com:1155/live/najib/2018/2552.m3u8
 #EXTINF:-1,[AR] SYRIA HD	
-http://world-ipsat.com:1155/live/najib/2018/2090.ts
+http://world-ipsat.com:1155/live/najib/2018/2090.m3u8
 #EXTINF:-1,[AR] SYRIA TARBAWIYA HD
-http://world-ipsat.com:1155/live/najib/2018/2086.ts
+http://world-ipsat.com:1155/live/najib/2018/2086.m3u8
 #EXTINF:-1,[AR] SYRIA NEWS HD	
-http://world-ipsat.com:1155/live/najib/2018/241.ts
+http://world-ipsat.com:1155/live/najib/2018/241.m3u8
 #EXTINF:-1,[AR] HALAB TODAY HD
-http://world-ipsat.com:1155/live/najib/2018/33.ts
+http://world-ipsat.com:1155/live/najib/2018/33.m3u8
 #EXTINF:-1,[AR] SYRIA TV HD
-http://world-ipsat.com:1155/live/najib/2018/32.ts
+http://world-ipsat.com:1155/live/najib/2018/32.m3u8
 #EXTINF:-1,|AR|_Syrian_Drama
-http://world-ipsat.com:1155/live/najib/2018/2439.ts
+http://world-ipsat.com:1155/live/najib/2018/2439.m3u8
 #EXTINF:-1,[AR] ALMAYADEEN TV HD
-http://world-ipsat.com:1155/live/najib/2018/2669.ts
+http://world-ipsat.com:1155/live/najib/2018/2669.m3u8
 #EXTINF:-1,[AR] AL MANAR TV	
-http://world-ipsat.com:1155/live/najib/2018/1582.ts
+http://world-ipsat.com:1155/live/najib/2018/1582.m3u8
 #EXTINF:-1,[AR] AL KAWTARE HD
-http://world-ipsat.com:1155/live/najib/2018/45.ts
+http://world-ipsat.com:1155/live/najib/2018/45.m3u8
 #EXTINF:-1,[AR] ALALAM NEWS	
-http://world-ipsat.com:1155/live/najib/2018/3877.ts
+http://world-ipsat.com:1155/live/najib/2018/3877.m3u8
 #EXTINF:-1,[AR] DW ARABIC HD
-http://world-ipsat.com:1155/live/najib/2018/26.ts
+http://world-ipsat.com:1155/live/najib/2018/26.m3u8
 #EXTINF:-1,[AR] SKY NEWS ARAIC HD
-http://world-ipsat.com:1155/live/najib/2018/1754.ts
+http://world-ipsat.com:1155/live/najib/2018/1754.m3u8
 #EXTINF:-1,[AR] RT ARABIC HD	
-http://world-ipsat.com:1155/live/najib/2018/109.ts
+http://world-ipsat.com:1155/live/najib/2018/109.m3u8
 #EXTINF:-1,Al Maaref
-http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1151.ts
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1151.m3u8
 EXTINF:-1,Al Sirat
-http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1212.ts
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/1212.m3u8
 EXTINF:-1,El Eiman TV
-http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2954.ts
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2954.m3u8
 EXTINF:-1,Al Jadeed
-http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2048.ts
+http://185.99.3.14:25461/live/arabian-v2/Vq0H5ksVFU/2048.m3u8
 EXTINF:-1,BE:LA UNE
-http://46.19.141.130:8000/live/talat/karaman/9324.ts
+http://46.19.141.130:8000/live/talat/karaman/9324.m3u8
 EXTINF:-1,BE:LA DEUX
-http://46.19.141.130:8000/live/talat/karaman/9315.ts
+http://46.19.141.130:8000/live/talat/karaman/9315.m3u8
 EXTINF:-1,BE:LA TROIS
-http://46.19.141.130:8000/live/talat/karaman/16270.ts
+http://46.19.141.130:8000/live/talat/karaman/16270.m3u8
 EXTINF:-1,[FRE] 23
-http://134.19.181.172:8000/live/mm34/mm34/1012.ts
+http://134.19.181.172:8000/live/mm34/mm34/1012.m3u8
 EXTINF:-1,[FRE] 6ter HD
-http://134.19.181.172:8000/live/mm34/mm34/934.ts
+http://134.19.181.172:8000/live/mm34/mm34/934.m3u8
 EXTINF:-1,[FRE] Disney Junior HD
-http://134.19.181.172:8000/live/mm34/mm34/662.ts
+http://134.19.181.172:8000/live/mm34/mm34/662.m3u8
 EXTINF:-1,[FRE] France 2 HD
-http://134.19.181.172:8000/live/mm34/mm34/872.ts
+http://134.19.181.172:8000/live/mm34/mm34/872.m3u8
 EXTINF:-1,[FRE] France 24
-http://134.19.181.172:8000/live/mm34/mm34/667.ts
+http://134.19.181.172:8000/live/mm34/mm34/667.m3u8
 EXTINF:-1,[FRE] France 3
-http://134.19.181.172:8000/live/mm34/mm34/873.ts
+http://134.19.181.172:8000/live/mm34/mm34/873.m3u8
 EXTINF:-1,[FRE] France 4 HD
-http://134.19.181.172:8000/live/mm34/mm34/611.ts
+http://134.19.181.172:8000/live/mm34/mm34/611.m3u8
 EXTINF:-1,[FRE] France 5 HD
-http://134.19.181.172:8000/live/mm34/mm34/612.ts
+http://134.19.181.172:8000/live/mm34/mm34/612.m3u8
 EXTINF:-1,[FRE] France O
-http://134.19.181.172:8000/live/mm34/mm34/666.ts
+http://134.19.181.172:8000/live/mm34/mm34/666.m3u8
