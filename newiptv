@@ -7,6 +7,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="Lebanon",Al Jadeed
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
 #EXTINF:-1,ALMAYADEEN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22394.ts
 #EXTINF:-1,Ar- OTV Lebnan
 http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
 #EXTINF:-1,Ar- Tel Lebanon
@@ -19,6 +20,8 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
 #EXTINF:-1,AR : LDC
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
+#EXTINF:-1,My- MBC1 HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/46.m3u8
 #EXTINF:-1,AR : MBC 2
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
 #EXTINF:-1,AR : MBC 4
@@ -29,6 +32,14 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
 #EXTINF:-1,AR : MBC MAX
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
+#EXTINF:-1,My- MBC Drama HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/48.m3u8
+#EXTINF:-1,My- MBC Bollywood HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/9301.m3u8
+#EXTINF:-1,My- MBC+ Drama HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
+#EXTINF:-1,My- Fox Life HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
 #EXTINF:-1,~ News TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
@@ -47,6 +58,8 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama *
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+#EXTINF:-1,AR: Syria tv
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22379.m3u8
 #EXTINF:-1,~ KUwAIT TV ~
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1 *
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
