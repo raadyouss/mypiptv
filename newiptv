@@ -7,7 +7,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="Lebanon",Al Jadeed
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
 #EXTINF:-1,ALMAYADEEN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22394.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22394.m3u8
 #EXTINF:-1,Ar- OTV Lebnan
 http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
 #EXTINF:-1,Ar- Tel Lebanon
@@ -20,25 +20,25 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
 #EXTINF:-1,AR : LDC
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
-#EXTINF:-1,My- MBC1 HD
+#EXTINF:-1,MBC1
 http://m-iptv.net:6204/live/Erbil1/Erbil1/46.m3u8
-#EXTINF:-1,AR : MBC 2
+#EXTINF:-1,MBC 2
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
-#EXTINF:-1,AR : MBC 4
+#EXTINF:-1,MBC 4
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/794.m3u8
-#EXTINF:-1,AR : MBC 4 HD
+#EXTINF:-1,MBC 4 HD
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
-#EXTINF:-1,AR : MBC Action
+#EXTINF:-1,MBC Action
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
-#EXTINF:-1,AR : MBC MAX
+#EXTINF:-1,MBC MAX
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
-#EXTINF:-1,My- MBC Drama HD
+#EXTINF:-1,MBC Drama
 http://m-iptv.net:6204/live/Erbil1/Erbil1/48.m3u8
-#EXTINF:-1,My- MBC Bollywood HD
+#EXTINF:-1,MBC Bollywood
 http://m-iptv.net:6204/live/Erbil1/Erbil1/9301.m3u8
-#EXTINF:-1,My- MBC+ Drama HD
+#EXTINF:-1,MBC+ Drama HD
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
-#EXTINF:-1,My- Fox Life HD
+#EXTINF:-1,Fox Life HD
 http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
 #EXTINF:-1,~ News TV ~ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
@@ -49,7 +49,8 @@ http://almaareftv.com:1935/live/12/playlist.m3u8
 #EXTINF:-1,~ Syria TV ~ 
 #EXTINF:-1,Sama TV 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8 
-#EXTINF:-1,Syria TV http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Syria TV 
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.alarabiya.net/7d/df/640x392_50282_236307.jpg" group-title="SYRIA",Syria TV
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
@@ -58,8 +59,6 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama *
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-#EXTINF:-1,AR: Syria tv
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22379.m3u8
 #EXTINF:-1,~ KUwAIT TV ~
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1 *
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
