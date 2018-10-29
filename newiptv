@@ -15,7 +15,22 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title="Lebanon TV",ALMAYADEEN
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/760.m3u8
+http://51.255.76.200:8000/live/jBwp00JBH9ySxuH/qlNzOhpGMlgB1ga/2576.m3u8
+
+#EXTINF:-1,MAYADE
+http://51.255.76.200:8000/live/jBwp00JBH9ySxuH/qlNzOhpGMlgB1ga/2576.m3u8
+
+#EXTINF:-1,NEWS-ALMAYADEEN TV
+http://iptvdtv.sw1a2aa.com:25461/live/2tQ0WPMxd4/NTtNxSNBcB/13728.m3u8
+
+#EXTINF:-1,AL-MAYADEEN-TV (EG)
+http://iptv.gospider.top:80/live/4734660921517769824/asd12345/19753.m3u8
+
+#EXTINF:-1,[ARN] Al Mayadeen
+http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/13727.m3u8
+
+#EXTINF:-1,[LBN] Al Mayadeen
+http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/13777.m3u8
 
 #EXTINF:-1,OTV Lebnan
 http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
