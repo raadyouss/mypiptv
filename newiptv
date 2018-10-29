@@ -15,7 +15,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title="Lebanon TV",ALMAYADEEN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22394.m3u8
+http://g.ddns.net:31000/live/Alex/alex1/342.m3u8
 
 #EXTINF:-1,OTV Lebnan
 http://m-iptv.net:6204/live/Erbil1/Erbil1/1177.m3u8
