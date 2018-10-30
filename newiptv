@@ -30,9 +30,6 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/2w2h8gw.jpg",Al Maaref
-http://almaareftv.com:1935/live/12/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60180_logo_free_syria_tv.png",Syria TV
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 
@@ -56,39 +53,3 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png",Oman TV
-http://38.96.148.30:1935/live/omantv1//playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png",Oman Documentary
-http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-
-#EXTINF:-1,MBC1
-http://m-iptv.net:6204/live/Erbil1/Erbil1/46.m3u8
-
-#EXTINF:-1,MBC 2
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
-
-#EXTINF:-1,MBC 4
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/794.m3u8
-
-#EXTINF:-1,MBC 4 HD
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
-
-#EXTINF:-1,MBC Action
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
-
-#EXTINF:-1,MBC MAX
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
-
-#EXTINF:-1,MBC Drama
-http://m-iptv.net:6204/live/Erbil1/Erbil1/48.m3u8
-
-#EXTINF:-1,MBC Bollywood
-http://m-iptv.net:6204/live/Erbil1/Erbil1/9301.m3u8
-
-#EXTINF:-1,MBC+ Drama HD
-http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
-
-#EXTINF:-1,Fox Life HD
-http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
