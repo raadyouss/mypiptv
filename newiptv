@@ -2,99 +2,63 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png", NBN
 http://source.vision-new.org:5000/live/sourcepanel1arab/Gk5j5zETv4/99996964.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png",Deutsche Welle 
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",Al Jadeed
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2242.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
 http://51.255.76.200:8000/live/jBwp00JBH9ySxuH/qlNzOhpGMlgB1ga/2576.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Tl_liban.png/revision/latest?cb=20150211194656", Tel Lebanon
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2737.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",Abu Dhabi Nat Geo
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png" Al Alam
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LDC
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
-
-#EXTINF:-1,MBC1
-http://m-iptv.net:6204/live/Erbil1/Erbil1/46.m3u8
-
-#EXTINF:-1,MBC 2
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
-
-#EXTINF:-1,MBC 4
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/794.m3u8
-
-#EXTINF:-1,MBC 4 HD
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
-
-#EXTINF:-1,MBC Action
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
-
-#EXTINF:-1,MBC MAX
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
-
-#EXTINF:-1,MBC Drama
-http://m-iptv.net:6204/live/Erbil1/Erbil1/48.m3u8
-
-#EXTINF:-1,MBC Bollywood
-http://m-iptv.net:6204/live/Erbil1/Erbil1/9301.m3u8
-
-#EXTINF:-1,MBC+ Drama HD
-http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
-
-#EXTINF:-1,Fox Life HD
-http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/2w2h8gw.jpg",Al Maaref
 http://almaareftv.com:1935/live/12/playlist.m3u8
-
-#EXTINF:-1,Sama TV 
-http://sama-tv.net:1935/live/samatv/playlist.m3u8 
-
-#EXTINF:-1,Syria TV 
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22379.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.alarabiya.net/7d/df/640x392_50282_236307.jpg",Syria TV
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg",Sama TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png",Syria News
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg",Syria Drama
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg",KTV 1
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg",KTV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img63.jpg",Al Arabi
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wakeplay.net/wp-content/uploads/2016/06/kuwaittvplus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png",Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1,MBC1
+http://m-iptv.net:6204/live/Erbil1/Erbil1/46.m3u8
+#EXTINF:-1,MBC 2
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/795.m3u8
+#EXTINF:-1,MBC 4
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/794.m3u8
+#EXTINF:-1,MBC 4 HD
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/793.m3u8
+#EXTINF:-1,MBC Action
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/792.m3u8
+#EXTINF:-1,MBC MAX
+http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/736.m3u8
+#EXTINF:-1,MBC Drama
+http://m-iptv.net:6204/live/Erbil1/Erbil1/48.m3u8
+#EXTINF:-1,MBC Bollywood
+http://m-iptv.net:6204/live/Erbil1/Erbil1/9301.m3u8
+#EXTINF:-1,MBC+ Drama HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
+#EXTINF:-1,Fox Life HD
+http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
