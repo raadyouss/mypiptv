@@ -1,7 +1,5 @@
 #EXTM3
 
-#EXTINF:-1,~ Lebanon TV ~ 
-
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg" group-title="Lebanon TV",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
@@ -19,9 +17,6 @@ http://51.255.76.200:8000/live/jBwp00JBH9ySxuH/qlNzOhpGMlgB1ga/2576.m3u8
 
 #EXTINF:-1,Tel Lebanon
 http://m-iptv.net:6204/live/Erbil1/Erbil1/2737.m3u8
-
-#EXTINF:-1,Al Jazeera Mubasher
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/805.m3u8
 
 #EXTINF:-1,Abu Dhabi Nat Geo
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
@@ -62,17 +57,11 @@ http://m-iptv.net:6204/live/Erbil1/Erbil1/2690.m3u8
 #EXTINF:-1,Fox Life HD
 http://m-iptv.net:6204/live/Erbil1/Erbil1/10154.m3u8
 
-#EXTINF:-1,~ News TV ~ 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,~ Religion TV ~ 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/2w2h8gw.jpg" group-title="Religion TV",Al Maaref
 http://almaareftv.com:1935/live/12/playlist.m3u8
-
-#EXTINF:-1,~ Syria TV ~ 
 
 #EXTINF:-1,Sama TV 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8 
@@ -92,8 +81,6 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama *
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
 
-#EXTINF:-1,~ KUwAIT TV ~
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1 *
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 
@@ -105,8 +92,6 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wakeplay.net/wp-content/uploads/2016/06/kuwaittvplus.jpg" group-title="KUWAIT",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-
-#EXTINF:-1,~ Oman TV ~
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
