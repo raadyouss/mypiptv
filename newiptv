@@ -30,6 +30,9 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LDC
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
