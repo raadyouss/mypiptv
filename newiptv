@@ -69,3 +69,21 @@ http://144.217.76.52:8080/LDC/mpegts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg",L b C 2
 https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+
+#EXTINF:0, Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
+#EXTINF:-1,ext Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+ 
+#EXTINF:-1,OTV (Lebanon)
+http://youness-export.com/tv/otv
+ EXTINF:-1,Otv+
+http://streaming.i-sat.tv:8081/live/vto/chunks.m3u8
+#EXTINF:-1,Nbn+
+http://streaming.i-sat.tv:8081/live/nbn/chunks.m3u8
+#EXTINF:-1,Ldc+
+http://streaming.i-sat.tv:8081/live/ldc/chunks.m3u8
+#EXTINF:-1,Lbc+
+http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
+#EXTINF:-1,Mtv_Lebanon+#EXTINF:-1,NBN Lebanon
+http://youness-export.com/tv/nbn
