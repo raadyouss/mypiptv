@@ -65,22 +65,27 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1,Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+
 #EXTINF:-1,AL JADEED
 http://youness-export.com/tv/aljadeed
+
 #EXTINF:-1,M  T  V  
 http://youness-export.com/tv/mtv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png",L  D  C
 http://144.217.76.52:8080/LDC/mpegts
+
 #EXTINF:-1,F U T U R E TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+
 #EXTINF:0, Future Tv
 http://185.27.116.54:8081/live/future/chunks.m3u8?gmswf=78670264
  
 #EXTINF:-1,O  T  V
 http://youness-export.com/tv/otv
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg",L b C 2
 https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+
 #EXTINF:0, T - Liban
-http://38.99.146.69:7777/TeleLiban_Med/TeleLiban_Med.m3u8?user=tyty&session=519f80d0c478970e1b5db2d7001acd7eb59367e52efa9c4dd45c29ac98ea9aa8a299017ce29bf1aa&hlsid=HTTP_ID_4691426&group_id=-1&starttime=20180613T072912.441406
-user=tyty&session=0995ffef76da2f721cd20f4ca5559b4b49daa68c9b0466e2b9c189551669c621a299017ce29bf1aa
- 
+http://38.99.146.69:7777/TeleLiban_Med/TeleLiban_Med.m3u8
