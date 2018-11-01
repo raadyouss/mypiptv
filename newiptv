@@ -28,16 +28,13 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LDC
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/790.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic
-https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+http://youness-export.com/tv/ldc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60180_logo_free_syria_tv.png",Syria TV
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+http://youness-export.com/tv/syria
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/14687/logo_sama%20tv%20%7C%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%B3%D9%85%D8%A7.png",Sama TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
