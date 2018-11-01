@@ -81,7 +81,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 #EXTINF:0, Future Tv
 http://185.27.116.54:8081/live/future/chunks.m3u8?gmswf=78670264
  
-#EXTINF:-1,O  T  V
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dyucqCpzLJMEh6djtvANeo2Ten-J_K9zLgQ3TrNQlng5b2_l",O  T  V
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg",L b C 2
