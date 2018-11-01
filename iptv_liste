@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.almanar.com.lb/framework/assets/images/logo-tech.png",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",Russia Today
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1, ma
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
