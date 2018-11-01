@@ -4,7 +4,7 @@
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png", NBN
-http://source.vision-new.org:5000/live/sourcepanel1arab/Gk5j5zETv4/99996964.m3u8
+http://youness-export.com/tv/nbn
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png",Deutsche Welle 
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
@@ -56,34 +56,3 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-
-#EXTINF:-1,DW Deutsch+
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1,DW Deutsch
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png",L  D  C
-http://144.217.76.52:8080/LDC/mpegts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg",L b C 2
-https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
-
-#EXTINF:0, Al Mayadeen
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
-#EXTINF:-1,ext Al Mayadeen
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
- 
-#EXTINF:-1,OTV (Lebanon)
-http://youness-export.com/tv/otv
- EXTINF:-1,Otv+
-http://streaming.i-sat.tv:8081/live/vto/chunks.m3u8
-#EXTINF:-1,Nbn+
-http://streaming.i-sat.tv:8081/live/nbn/chunks.m3u8
-#EXTINF:-1,Ldc+
-http://streaming.i-sat.tv:8081/live/ldc/chunks.m3u8
-#EXTINF:-1,Lbc+
-http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
-#EXTINF:-1,Mtv_Lebanon+#EXTINF:-1,NBN Lebanon
-http://youness-export.com/tv/nbn
