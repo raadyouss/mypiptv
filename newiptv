@@ -27,7 +27,10 @@ http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png", Al Alam
 http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LDC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC
+http://youness-export.com/tv/lbc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/62px-LDC_logo_new.png",LDC
 http://youness-export.com/tv/ldc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
@@ -56,3 +59,36 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MBC1-HD" tvg-logo="" group-title="MBC",MBC1-HD
+http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/260.m3u8?v=3657350083
+#EXTINF:-1 tvg-ID="" tvg-name="MBC1-HD" tvg-logo="" group-title="MBC",MBC1-HD+
+http://144.217.253.140/MBC/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD
+http://5.189.190.163:8000/live/raffaele/raffaele/639.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD+
+http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/259.m3u8?v=3657350083
+#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD++
+http://144.217.253.140/MBC2/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC4-HD" tvg-logo="" group-title="MBC",MBC4-HD
+http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/256.m3u8?v=3657350083
+#EXTINF:-1 tvg-ID="" tvg-name="MBC4-HD" tvg-logo="" group-title="MBC",MBC4-HD+
+http://144.217.253.140/MBC4/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA
+http://5.189.190.163:8000/live/raffaele/raffaele/1531.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA+
+http://144.217.253.140/MBCDRAMA/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA++
+http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/260.m3u8?v=3657350083
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASER-HD" tvg-logo="" group-title="MBC",MBC MASER-HD
+http://144.217.253.140/MBCMASR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASER-HD" tvg-logo="" group-title="MBC",MBC MASER-HD+
+http://144.217.253.140/MBCMASR/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC_MAX-HD" tvg-logo="" group-title="MBC",MBC_MAX-HD+
+http://144.217.253.140/MBCMAX/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC_ACTION-HD" tvg-logo="" group-title="MBC",MBC_ACTION-HD
+http://144.217.253.140/MBCACTION/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC_ACTION-HD" tvg-logo="" group-title="MBC",MBC_ACTION-HD+
+http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/499.m3u8?v=3657350083
+#EXTINF:-1 tvg-ID="" tvg-name="MBC_BOLLYWOOD-HD" tvg-logo="" group-title="MBC",MBC_BOLLYWOOD-HD+
+http://5.189.190.163:8000/live/raffaele/raffaele/6.m3u8
