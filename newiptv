@@ -60,35 +60,148 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="MBC1-HD" tvg-logo="" group-title="MBC",MBC1-HD
-http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/260.m3u8?v=3657350083
-#EXTINF:-1 tvg-ID="" tvg-name="MBC1-HD" tvg-logo="" group-title="MBC",MBC1-HD+
-http://144.217.253.140/MBC/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD
-http://5.189.190.163:8000/live/raffaele/raffaele/639.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD+
-http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/259.m3u8?v=3657350083
-#EXTINF:-1 tvg-ID="" tvg-name="MBC2-HD" tvg-logo="" group-title="MBC",MBC2-HD++
-http://144.217.253.140/MBC2/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC4-HD" tvg-logo="" group-title="MBC",MBC4-HD
-http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/256.m3u8?v=3657350083
-#EXTINF:-1 tvg-ID="" tvg-name="MBC4-HD" tvg-logo="" group-title="MBC",MBC4-HD+
-http://144.217.253.140/MBC4/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA
-http://5.189.190.163:8000/live/raffaele/raffaele/1531.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA+
-http://144.217.253.140/MBCDRAMA/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC-DRAMA-HD" tvg-logo="" group-title="MBC",MBC DRAMA++
-http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/260.m3u8?v=3657350083
-#EXTINF:-1 tvg-ID="" tvg-name="MBC MASER-HD" tvg-logo="" group-title="MBC",MBC MASER-HD
-http://144.217.253.140/MBCMASR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC MASER-HD" tvg-logo="" group-title="MBC",MBC MASER-HD+
-http://144.217.253.140/MBCMASR/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC_MAX-HD" tvg-logo="" group-title="MBC",MBC_MAX-HD+
-http://144.217.253.140/MBCMAX/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC_ACTION-HD" tvg-logo="" group-title="MBC",MBC_ACTION-HD
-http://144.217.253.140/MBCACTION/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC_ACTION-HD" tvg-logo="" group-title="MBC",MBC_ACTION-HD+
-http://163.172.49.235:8000/live/mobachir3123/X4ZxvKhSRx/499.m3u8?v=3657350083
-#EXTINF:-1 tvg-ID="" tvg-name="MBC_BOLLYWOOD-HD" tvg-logo="" group-title="MBC",MBC_BOLLYWOOD-HD+
-http://5.189.190.163:8000/live/raffaele/raffaele/6.m3u8
+#EXTINF:-1,Tf1 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1380.m3u8
+#EXTINF:-1,France 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1381.m3u8
+#EXTINF:-1,France 3 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1382.m3u8
+#EXTINF:-1,France 4 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1383.m3u8
+#EXTINF:-1,France 5 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1384.m3u8
+#EXTINF:-1,France O 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1385.m3u8
+#EXTINF:-1,D8 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1402.m3u8
+#EXTINF:-1,M6 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1386.m3u8
+#EXTINF:-1,W9 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1387.m3u8
+#EXTINF:-1,Nrj 12 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1389.m3u8
+#EXTINF:-1,France 24 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2944.m3u8
+#EXTINF:-1,Tv5 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/129.m3u8
+#EXTINF:-1,Bfm 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1398.m3u8
+#EXTINF:-1,Euronews 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/131.m3u8
+#EXTINF:-1,Arte 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1390.m3u8
+#EXTINF:-1,6Ter 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1391.m3u8
+#EXTINF:-1,Serie Club 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/120.m3u8
+#EXTINF:-1,Piwi 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/153.m3u8
+#EXTINF:-1,Disney XD 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/146.m3u8
+#EXTINF:-1,Game One 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/145.m3u8
+#EXTINF:-1,Gulli 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1388.m3u8
+#EXTINF:-1,Canal J 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/152.m3u8
+#EXTINF:-1,Disney Cinemagic 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/150.m3u8
+#EXTINF:-1,Disney Junior 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/151.m3u8
+#EXTINF:-1,Teletoon 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/148.m3u8
+#EXTINF:-1,Tiji 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/147.m3u8
+#EXTINF:-1,Zouzou TV HD 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/141.m3u8
+#EXTINF:-1,Planet A&E HD 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/123.m3u8
+#EXTINF:-1,Planet+ Ci 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/133.m3u8
+#EXTINF:-1,Planet+ 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/132.m3u8
+#EXTINF:-1,Lci 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2586.m3u8
+#EXTINF:-1,Lcp 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2585.m3u8
+#EXTINF:-1,Science et Vie 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/140.m3u8
+#EXTINF:-1,Voyage HD 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/139.m3u8
+#EXTINF:-1,Syfy 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/115.m3u8
+#EXTINF:-1,Teva 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/111.m3u8
+#EXTINF:-1,Itele 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1392.m3u8
+#EXTINF:-1,Manga 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/149.m3u8
+#EXTINF:-1,Animaux 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/138.m3u8
+#EXTINF:-1,National Geographic 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1423.m3u8
+#EXTINF:-1,National Geo Wild 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/134.m3u8
+#EXTINF:-1,Discovery 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1422.m3u8
+#EXTINF:-1,Discovery Science 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/135.m3u8
+#EXTINF:-1,Equidia 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/109.m3u8
+#EXTINF:-1,Equidia Live 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/112.m3u8
+#EXTINF:-1,Ab 1 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/128.m3u8
+#EXTINF:-1,Chasse et Peche 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/137.m3u8
+#EXTINF:-1,Numero 23 - France
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1393.m3u8
+#EXTINF:-1,Comedie 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/130.m3u8
+#EXTINF:-1,Paris Premiere 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/114.m3u8
+#EXTINF:-1,Infosport Plus 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/142.m3u8
+#EXTINF:-1,Tmc 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/1401.m3u8
+#EXTINF:-1,Histoire HD 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/126.m3u8
+#EXTINF:-1,Paramount Channel 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/110.m3u8
+#EXTINF:-1,Action 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/119.m3u8
+#EXTINF:-1,Rtl 9 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/121.m3u8
+#EXTINF:-1,Ushuaia 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/123.m3u8
+#EXTINF:-1,AR- LDC
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/146.m3u8
+#EXTINF:-1,AR:OSN-Movies-HD
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/67.m3u8
+#EXTINF:-1,AR: OSN YAHALA HD
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/135.m3u8
+#EXTINF:-1,AR_Rotana_Masriya
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/175.m3u8
+
+#EXTINF:-1,LBC (AR)
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/40.m3u8
+
+#EXTINF:-1,MBC Drama (AR)
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/65.m3u8
+#EXTINF:-1,MBC 1 HD (AR)
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/62.m3u8
+#EXTINF:-1,AR:MBC-2HD
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/153.m3u8
+#EXTINF:-1,AR-MBC3
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/139.m3u8
+#EXTINF:-1,AR- MBC 4
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/236.m3u8
+#EXTINF:-1,AR-MBC-BOLLYWOOD
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/37.m3u8
+
+
+#EXTINF:-1,Zdf (DE)
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/84.m3u8
+
+#EXTINF:-1,DE- NATIONAL GEO
+http://gigasip.dyndns.tv:3838/live/STALKERE/160616NY/90.m3u8
