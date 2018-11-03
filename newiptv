@@ -16,7 +16,7 @@ http://youness-export.com/tv/aljadeed
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
-http://www.almayadeen.net/live/i/atv_1@61433/master.m3u8
+http://www.almayadeen.net/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC
 http://youness-export.com/tv/lbc
