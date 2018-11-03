@@ -16,16 +16,7 @@ http://youness-export.com/tv/aljadeed
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
-http://www.almayadeen.net/live
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Tl_liban.png/revision/latest?cb=20150211194656", Tel Lebanon
-http://m-iptv.net:6204/live/Erbil1/Erbil1/2737.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",Abu Dhabi Nat Geo
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/797.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png", Al Alam
-http://buyiptv.link:25461/live/EtgJCQhj5K/QlC7HMx037/801.m3u8
+http://www.almayadeen.net/live/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC
 http://youness-export.com/tv/lbc
