@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Al Mayadeen Tv
-http://livestreaming.itworkscdn.net/mayadeenlive/mayadsat/playlist.m3u8
-
 #EXTINF:-1,RT Arab
 http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
 
 #EXTINF:-1,Mayadeennn
-https://www.youtube.com/watch?v=GjhOcA-Rpt0
+https://www.youtube.com/watch?v=GjhOcA-Rpt0/mayadsat/playlist.m3u8
