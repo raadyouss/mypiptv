@@ -3,8 +3,11 @@
 #EXTINF:-1,Al Alam
 http://rb-group-server.com:25461/live/yassine/yassine/8734.ts
 
+#EXTINF:-1,Al Mayadeen Tv
+http://rb-group-server.com:25461/live/yassine/yassine/2877.ts
+
 #EXTINF:-1,RT Arab
 http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
 
 #EXTINF:-1,MAYADEEN
-https://www.youtube.com/watch?v=GjhOcA-Rpt0.ts
+https://www.youtube.com/watch?v=GjhOcA-Rpt0
