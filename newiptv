@@ -12,11 +12,12 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",Al Jadeed
 http://youness-export.com/tv/aljadeed
 
-#EXTINF:-1tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/otv.jpg",O  T  V
+#EXTINF:-1tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/otv.jpg",OTV
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
 http://rb-group-server.com:25461/live/yassine/yassine/2877.ts
+
 #EXTINF:-1,syria tv
 http://82.137.248.16:1935/Sat/SatLive3/gmswf.m3u8
 
