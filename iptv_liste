@@ -59,27 +59,20 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://newsly.fr/wp-content/uploads/sites/1/2018/02/Russia-Today.png",RT Arab
 http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
-
 #EXTINF:0 group-title="AR: _",AR: AL ALAM 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8734.ts
-
 #EXTINF:0 group-title="AR: _",AR: AL KAWTHAR 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3104.ts
 #EXTINF:0 group-title="AR: _",AR: AL MAAREF 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4238.ts
-
 #EXTINF:0 group-title="AR: _",AR: AL MANAR TV 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.m3u8
-
-
-#EXTINF:0 group-title="AR: _",AR: AZHARI 
+#EXTINF:0 group-title="AR: _",AR: AZHARI
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3085.ts
 #EXTINF:0 group-title="AR: _",AR: B4U AFLAM 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9349.ts
 #EXTINF:0 group-title="AR: _",AR: B4U PLUS 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/7446.ts
-
-
 #EXTINF:0 group-title="AR: _",AR: DUBAI ZAMAN 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
 #EXTINF:0 group-title="AR: _",AR: DUBAI ZAMAN (1+) 
@@ -90,11 +83,8 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.m3u8
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:0 group-title="AR: _",AR: DW TV 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2798.ts
-
-#EXTINF:0 group-title="AR: _",AR: FRANCE 24 AR 
+#EXTINF:0 group-title="AR: _",AR: FRANCE 24 AR
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.m3u8
-
-
 #EXTINF:0 group-title="AR: _",AR: KTV AL ARABI HD
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2859.ts
 #EXTINF:0 group-title="AR: _",AR: KTV CH1 HD
@@ -105,11 +95,6 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2856.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2855.ts
 #EXTINF:0 group-title="AR: _",AR: KTV S PLUS HD
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2854.ts
-
-#EXTINF:0 group-title="AR: _",AR: LCD AFLAM 
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/6385.ts
-
-
 #EXTINF:0 group-title="AR: _",AR: MBC 1 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
 #EXTINF:0 group-title="AR: _",AR: MBC 2 
@@ -126,10 +111,8 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2992.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2985.ts
 #EXTINF:0 group-title="AR: _",AR: MBC DRAMA 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2990.ts
-
 #EXTINF:0 group-title="AR: _",AR: MBC MAX 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2994.ts
-
 #EXTINF:0 group-title="AR: _",AR: ROTANA AFLAM HD
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8267.ts
 #EXTINF:0 group-title="AR: _",AR: ROTANA AFLAM 
@@ -138,20 +121,12 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2981.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2972.ts
 #EXTINF:0 group-title="AR: _",AR: ROTANA CLASSIC 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2971.ts
-
-#EXTINF:0 group-title="AR: _",AR: RT RUSSIA 
-http://secure-streams.akamaized.net/rt-arab/index.m3u8
-#EXTINF:0 group-title="AR: _",AR: RT RUSSIA (1+) 
-http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
-
 #EXTINF:0 group-title="AR: _",AR: SAMIRA TV 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8582.ts
-
 #EXTINF:0 group-title="AR: _",AR: SPACE TOON 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.m3u8
 #EXTINF:0 group-title="AR: _",AR: SPACETOON 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3010.ts
-
 #EXTINF:0 group-title="AR: _",AR: SYRIAN DRAMA 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
 
