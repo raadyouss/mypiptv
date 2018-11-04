@@ -16,12 +16,12 @@ http://youness-export.com/tv/aljadeed
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
-http://63.237.48.8/ios/ALMAYADEEN/ALMAYADEEN.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/2877.ts
 #EXTINF:-1,syria tv
 http://82.137.248.16:1935/Sat/SatLive3/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC
-http://youness-export.com/tv/lbc
+http://livestreaming.itworkscdn.net/lbclive/smil:lbclive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/62px-LDC_logo_new.png",LDC
 http://youness-export.com/tv/ldc
@@ -52,3 +52,6 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://newsly.fr/wp-content/uploads/sites/1/2018/02/Russia-Today.png",RT Arab
+http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
