@@ -1,31 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1,Algeria tv
-http://rb-group-server.com:25461/live/yassine/yassine/2781/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/2781/playlist.m3u8
 
 #EXTINF:-1,Algerie 3
-http://rb-group-server.com:25461/live/yassine/yassine/8619/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/8619/playlist.m3u8
 
 #EXTINF:-1,Algerie 4
-http://rb-group-server.com:25461/live/yassine/yassine/8612/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/8612/playlist.m3u8
 
 #EXTINF:-1,Algerie 5
-http://rb-group-server.com:25461/live/yassine/yassine/8608/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/8608/playlist.m3u8
 
 #EXTINF:-1,Al Mayadeen Tv
-http://rb-group-server.com:25461/live/yassine/yassine/2877/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/2877/playlist.m3u8
 
 #EXTINF:-1,Al Alam
-http://rb-group-server.com:25461/live/yassine/yassine/8734/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/8734/playlist.m3u8
 
 #EXTINF:-1,RT Arab
-http://rb-group-server.com:25461/live/yassine/yassine/4342/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/4342/playlist.m3u8
 
 #EXTINF:-1,Euro news
-http://rb-group-server.com:25461/live/yassine/yassine/2800/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/2800/playlist.m3u8
 
 #EXTINF:-1,Nat Geo Abu Dhabi
-http://rb-group-server.com:25461/live/yassine/yassine/2834/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/2834/playlist.m3u8
 
 #EXTINF:-1,Samira TV.
-http://rb-group-server.com:25461/live/yassine/yassine/8582/liveorigin/livestream_480p/playlist.m3u8
+http://rb-group-server.com:25461/live/yassine/yassine/8582/playlist.m3u8
