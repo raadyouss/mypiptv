@@ -1,10 +1,57 @@
-#EXTM3U
+#EXTM3
 
-#EXTINF:-1,RT Arab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png", NBN
+http://youness-export.com/tv/nbn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png",Deutsche Welle 
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",Al Jadeed
+http://youness-export.com/tv/aljadeed
+
+#EXTINF:-1tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/otv.jpg",O  T  V
+http://youness-export.com/tv/otv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
+http://rb-group-server.com:25461/live/yassine/yassine/2877.ts
+#EXTINF:-1,syria tv
+http://82.137.248.16:1935/Sat/SatLive3/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC
+http://livestreaming.itworkscdn.net/lbclive/smil:lbclive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/62px-LDC_logo_new.png",LDC
+http://youness-export.com/tv/ldc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png",BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60180_logo_free_syria_tv.png",Syria TV
+http://youness-export.com/tv/syria
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/14687/logo_sama%20tv%20%7C%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%B3%D9%85%D8%A7.png",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png",Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg",Syria Drama
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg",KTV 1
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg",KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img63.jpg",Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1_plus.jpg",KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://newsly.fr/wp-content/uploads/sites/1/2018/02/Russia-Today.png",RT Arab
 http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
-
-#EXTINF:-1,Al-Kass One HD
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s12.m3u8
-
-#EXTINF:-1,Mayadeennn
-https://www.youtube.com/watch?v=GjhOcA-Rpt0/playlist.m3u8
