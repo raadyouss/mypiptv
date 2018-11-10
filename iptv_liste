@@ -31,7 +31,7 @@ http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2576.ts
 http://194.88.107.95:6204/live/Abas/Abas/2281.ts
 
 #EXTINF:-1,SYRIA SATELLITE TV
-http://ok.ru/videoembed/911708528246
+<iframe width="560" height="315" src="//ok.ru/videoembed/911708528246" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
 #EXTINF:0,Ar- Syria TV
 http://194.88.107.95:6204/live/Abas/Abas/7186.ts
