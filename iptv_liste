@@ -346,3 +346,98 @@ https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+
+#EXTINF:-1, Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+
+#EXTINF:-1, Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1, Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:-1, Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1, Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1, Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:-1, Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1, Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1, Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+#EXTINF:-1, Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1, Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1, Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1, National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1, Zee Aflam (Hindi)
+http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+#EXTINF:-1, Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1, Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1, Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1, Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1, Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1, Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1, Abu Dhabi Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1, Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1, Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1, Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1, Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1, Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1, Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1, Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1, Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1, Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1, KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1, KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1, KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1, KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1, KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1, KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1, KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1, KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1, Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1, Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1, Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1, Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1, Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
