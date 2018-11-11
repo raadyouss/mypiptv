@@ -441,3 +441,36 @@ http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 #EXTINF:-1, Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+
+#EXTINF:-1,FR: TF1 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1756.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1610.ts
+#EXTINF:-1,FR: France 3 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1611.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1933.ts
+#EXTINF:-1,FR: France 5 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1755.ts
+#EXTINF:-1,FR: FRANCE O HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1934.ts
+#EXTINF:-1,FR: M6 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1612.ts
+#EXTINF:-1,FR: ARTE HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1613.ts
+#EXTINF:-1,FR: W9 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1615.ts
+#EXTINF:-1,FR: TMC HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1936.ts
+#EXTINF:-1,FR: NT1 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1939.ts
+#EXTINF:-1,FR: NRJ12 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1935.ts
+#EXTINF:-1,FR: LCI
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1627.ts
+#EXTINF:-1,FR: BFM TV
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1625.ts
+#EXTINF:-1,FR: La Une HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1753.ts
+#EXTINF:-1,FR: France 24
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1629.ts
