@@ -1,7 +1,4 @@
 #EXTM3U 
-#EXTGRP: Al Sham 
-#EXTINF:2,Teledunet Tv 
-http://www.teledunet.tv:8888/teledunet_tv.m3u8?channel=teledunet_tv&idu=ros_86570442900 
 #EXTINF:4,Syria
 http://www.teledunet.tv:8888/syria.m3u8?channel=syria&idu=ros_86570442900 
 #EXTINF:6,Syria Drama 
@@ -10,8 +7,6 @@ http://www.teledunet.tv:8888/syria_drama.m3u8?channel=syria_drama&idu=ros_865704
 http://www.teledunet.tv:8888/nour_sham.m3u8?channel=nour_sham&idu=ros_86570442900 
 #EXTINF:10,Sama Tv 
 http://www.teledunet.tv:8888/sama_tv.m3u8?channel=sama_tv&idu=ros_86570442900 
-#EXTINF:12,Lana Tv 
-http://www.teledunet.tv:8888/lana_tv.m3u8?channel=lana_tv&idu=ros_86570442900 
 #EXTINF:14,Lebanon Tv 
 http://www.teledunet.tv:8888/lebanon_tv.m3u8?channel=lebanon_tv&idu=ros_86570442900 
 #EXTINF:16,OTV Lebanon 
@@ -21,11 +16,7 @@ http://www.teledunet.tv:8888/al_mayaden.m3u8?channel=al_mayaden&idu=ros_86570442
 #EXTINF:20,Al manar 
 http://www.teledunet.tv:8888/al_manar.m3u8?channel=al_manar&idu=ros_86570442900 
 #EXTINF:22,LBC 
-http://www.teledunet.tv:8888/lbc.m3u8?channel=lbc&idu=ros_86570442900 
-#EXTINF:24,NBN 
-http://www.teledunet.tv:8888/nbn.m3u8?channel=nbn&idu=ros_86570442900 
-#EXTINF:26,Future 
-http://www.teledunet.tv:8888/future.m3u8?channel=future&idu=ros_86570442900 
+http://www.teledunet.tv:8888/lbc.m3u8?channel=lbc&idu=ros_86570442900  
 #EXTINF:28,Aljadeed 
 http://www.teledunet.tv:8888/aljadeed.m3u8?channel=aljadeed&idu=ros_86570442900 
 #EXTINF:30,MTV 
