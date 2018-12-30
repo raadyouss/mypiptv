@@ -7,8 +7,6 @@ http://topiptv.net:5890/live/taha/taha/141.m3u8
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
 #EXTINF:-1, LDC
 http://streaming.i-sat.tv:8081/live/ldcle/chunks.m3u8
-#EXTINF:-1, LBC 2
-http://youness-export.com/tv/lbc
 #EXTINF:-1, NBN
 http://youness-export.com/tv/nbn
 #EXTINF:-1, OTV
