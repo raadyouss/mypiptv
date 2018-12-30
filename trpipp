@@ -1,21 +1,36 @@
-#EXTM3U
-#EXTINF:-1, Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 ,Aljadeed
-http://clinetiptv.ddns.net:8000/live/active/active/447.m3u8
-#EXTINF:-1 ,Syria
-http://topiptv.net:5890/live/taha/taha/169.m3u8
-#EXTINF:-1 ,Sama Syria
-http://topiptv.net:5890/live/taha/taha/189.m3u8
-#EXTINF:-1 ,Syria Drama
-http://topiptv.net:5890/live/taha/taha/171.m3u8
-#EXTINF:-1 ,Syria Aloula
-http://topiptv.net:5890/live/taha/taha/170.m3u8
-#EXTINF:-1, MTV
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
-#EXTINF:-1 ,Russia_Alyaum
-http://clinetiptv.ddns.net:8000/live/active/active/357.m3u8
-#EXTINF:-1, NBN
-http://youness-export.com/tv/nbn
-#EXTINF:-1, OTV
-http://youness-export.com/tv/otv
+#EXTM3U 
+#EXTGRP: Al Sham 
+#EXTINF:2,Teledunet Tv 
+http://www.teledunet.tv:8888/teledunet_tv.m3u8?channel=teledunet_tv&idu=ros_86570442900 
+#EXTINF:4,Syria
+http://www.teledunet.tv:8888/syria.m3u8?channel=syria&idu=ros_86570442900 
+#EXTINF:6,Syria Drama 
+http://www.teledunet.tv:8888/syria_drama.m3u8?channel=syria_drama&idu=ros_86570442900 
+#EXTINF:8,Nour Sham 
+http://www.teledunet.tv:8888/nour_sham.m3u8?channel=nour_sham&idu=ros_86570442900 
+#EXTINF:10,Sama Tv 
+http://www.teledunet.tv:8888/sama_tv.m3u8?channel=sama_tv&idu=ros_86570442900 
+#EXTINF:12,Lana Tv 
+http://www.teledunet.tv:8888/lana_tv.m3u8?channel=lana_tv&idu=ros_86570442900 
+#EXTINF:14,Lebanon Tv 
+http://www.teledunet.tv:8888/lebanon_tv.m3u8?channel=lebanon_tv&idu=ros_86570442900 
+#EXTINF:16,OTV Lebanon 
+http://www.teledunet.tv:8888/otv_lebanon.m3u8?channel=otv_lebanon&idu=ros_86570442900 
+#EXTINF:18,Al mayaden 
+http://www.teledunet.tv:8888/al_mayaden.m3u8?channel=al_mayaden&idu=ros_86570442900 
+#EXTINF:20,Al manar 
+http://www.teledunet.tv:8888/al_manar.m3u8?channel=al_manar&idu=ros_86570442900 
+#EXTINF:22,LBC 
+http://www.teledunet.tv:8888/lbc.m3u8?channel=lbc&idu=ros_86570442900 
+#EXTINF:24,NBN 
+http://www.teledunet.tv:8888/nbn.m3u8?channel=nbn&idu=ros_86570442900 
+#EXTINF:26,Future 
+http://www.teledunet.tv:8888/future.m3u8?channel=future&idu=ros_86570442900 
+#EXTINF:28,Aljadeed 
+http://www.teledunet.tv:8888/aljadeed.m3u8?channel=aljadeed&idu=ros_86570442900 
+#EXTINF:30,MTV 
+http://www.teledunet.tv:8888/mtv.m3u8?channel=mtv&idu=ros_86570442900 
+#EXTINF:32,LDC 
+http://www.teledunet.tv:8888/ldc.m3u8?channel=ldc&idu=ros_86570442900 
+#EXTINF:34,LLBN 
+http://www.teledunet.tv:8888/llbn.m3u8?channel=llbn&idu=ros_86570442900 
