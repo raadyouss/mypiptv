@@ -1,3 +1,5 @@
-#EXTM3
-#EXTINF:-1,rt
-<iframe width="1280" height="686" src="https://www.youtube.com/embed/rjcyBzzE7-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#EXTM3U
+#EXTINF:0,ARTE - Philosophie - L'Intime
+https://www.youtube.com/watch?v=-FUl5d2d7Mw
+#EXTINF:0,Arte - Philosophie - Langage
+https://www.youtube.com/watch?v=SVgAkv8h4FQ
