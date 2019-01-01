@@ -1,30 +1,10 @@
     #EXTM3U
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alhiwar.tv/all/images/fb_logo.png" group-title="ARABIC NEWS",Al Hiwar
-    http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8?v=778390213
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
-    http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-     
+  
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
     http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
      
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="ARABIC NEWS",CGTN
-    http://live.cgtn.com/1000a/prog_index.m3u8
-     
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
     http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
-    http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic
-    http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic HD
-    http://secure-streams.akamaized.net/rt-arab/index.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
-    http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
      
     #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
     http://www.lengua.com/anthems/Lebanon.mp3
@@ -32,26 +12,11 @@
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="LEBANON",Al Manar
     http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
      
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lpmub25.png" group-title="LEBANON",Al Mayadeen
-    http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/spdDjET.png" group-title="LEBANON",Arabica TV
-    https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukQifg6.png" group-title="LEBANON",Future TV
-    http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rZ2Knn8.png" group-title="LEBANON",Hawacom TV
-    http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
-     
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2saULa.png" group-title="LEBANON",LBCi
     http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
      
     #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
     http://www.lengua.com/anthems/Syria.mp3
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
-    http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
      
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
     http://sama-tv.net:1935/live/samatv/playlist.m3u8
@@ -64,64 +29,7 @@
      
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://syrianfreepress.files.wordpress.com/2012/10/syrian-tv-logo.jpg" group-title="SYRIA",Syria TV
     http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" group-title="SYRIA",Nabd Syria
-    http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
-     
-    #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",~ Jordan TV  ~
-    http://www.lengua.com/anthems/Jordan.mp3
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
-    http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
-    http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
-    http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
-    http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
-     
-    #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine TV ~
-    http://users.atw.hu/szbszig/palestine.mp3
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.idfblog.com/hamas/files/2012/01/Al-Aqsa-TV.png" group-title="PALESTINE",Al Aqsa
-    http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds TV
-    http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8
-     
-    #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iraq-01.png" group-title="LABEL",~ Iraq TV ~
-    http://www.lengua.com/anthems/Iraq.mp3
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/25sbybc.png" group-title="IRAQ",Al Forat
-    http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.li/r4gOb/3fbda78e0bc2bcf323e23bbcc8d877d3228ec895.png" group-title="IRAQ",Al Ghadeer
-    http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" group-title="IRAQ",Al Rasheed
-    http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya
-    http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-DiN0PHymkxk/UjqtR-oQY6I/AAAAAAAACGQ/mhgOj-8Lrn0/w1200-h630-p-k-no-nu/alsharqiya+news+live+tv.png" group-title="IRAQ",Sharqiya News
-    http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-     
-    #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ Saudi Arabia TV ~
-    http://www.lengua.com/anthems/SaudiArabia.mp3
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="SAUDI ARABIA",Masdar TV
-    http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="SAUDI ARABIA",Rotana Aflam
-    http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-     
-    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="SAUDI ARABIA",Rotana Cinema
-    http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
-     
+ 
     #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zjyGrV8.png" group-title="SAUDI ARABIA",Rotana Classic
     http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8
      
