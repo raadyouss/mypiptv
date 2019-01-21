@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
+#EXTINF:-1 , Almassira
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png", NBN
 http://youness-export.com/tv/nbn
 
@@ -17,19 +20,6 @@ http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
 http://www.okbob.net/article-regardez-watch-el-mayadeen-tv-liban-direct-live-119641432.html
-
-#EXTINF:-1,MAYADEEN1
-https://www.youtube.com/watch?v=Klt8e-T7jU4
-https://www.youtube.com/watch?v=Klt8e-T7jU4
-
-#EXTINF:-1,|AR|_ALMAYADEEN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
-
-#EXTINF:-1,AL MAYADEEN TV
-http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2576.ts
-
-#EXTINF:-1,Ar- AL MAYADEEN
-http://194.88.107.95:6204/live/Abas/Abas/2281.ts
 
 #EXTINF:-1,SYRIA SATELLITE TV
 <iframe width="560" height="315" src="//ok.ru/videoembed/911708528246" frameborder="0" allow="autoplay" allowfullscreen></iframe>
@@ -77,13 +67,13 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://newsly.fr/wp-content/uploads/sites/1/2018/02/Russia-Today.png",RT Arab
-http://rb-group-server.com:25461/live/yassine/yassine/4342.ts
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_320p/chunklist.m3u8
 #EXTINF:0 group-title="AR: _",AR: AL ALAM 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8734.ts
 #EXTINF:0 group-title="AR: _",AR: AL KAWTHAR 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3104.ts
 #EXTINF:0 group-title="AR: _",AR: AL MAAREF 
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4238.ts
+http://liven.alimantv.com/liveimn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 group-title="AR: _",AR: AL MANAR TV 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.m3u8
 #EXTINF:0 group-title="AR: _",AR: AZHARI
