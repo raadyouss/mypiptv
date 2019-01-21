@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
-#EXTINF:-1 , Almassira
-http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbn.com.lb/wp-content/uploads/2017/02/nbnlogoforsite3.png", NBN
 http://youness-export.com/tv/nbn
 
@@ -19,7 +16,7 @@ http://youness-export.com/tv/aljadeed
 http://youness-export.com/tv/otv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seedroid.com/img/post/covers/1024/com.Mayadeen.jpg" group-title=",ALMAYADEEN
-http://www.okbob.net/article-regardez-watch-el-mayadeen-tv-liban-direct-live-119641432.html
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8
 
 #EXTINF:-1,SYRIA SATELLITE TV
 <iframe width="560" height="315" src="//ok.ru/videoembed/911708528246" frameborder="0" allow="autoplay" allowfullscreen></iframe>
@@ -67,7 +64,8 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://newsly.fr/wp-content/uploads/sites/1/2018/02/Russia-Today.png",RT Arab
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_320p/chunklist.m3u8
+https://secure-streams.akamaized.net/rt/index1600.m3u8
+
 #EXTINF:0 group-title="AR: _",AR: AL ALAM 
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8734.ts
 #EXTINF:0 group-title="AR: _",AR: AL KAWTHAR 
