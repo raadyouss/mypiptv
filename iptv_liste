@@ -1,5 +1,14 @@
 #EXTM3
 
+EXTINF:0, Al Jadeed
+http://youness-export.com/tv/aljadeed
+#EXTINF:0, MTV Lebanon
+http://youness-export.com/tv/mtv
+#EXTINF:0, Al Manar
+http://live3.mediaforall.net/liveorigin/livestream_360p/playlist.m3u8
+#EXTINF:0, Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
