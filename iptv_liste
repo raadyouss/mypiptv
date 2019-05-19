@@ -10,6 +10,7 @@ rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2.stream_480p/playlist.m3u8
 #EXTINF:-1,mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 #EXTINF:-1,mayadeen
+rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dailystar.com.lb/dailystar/Pictures/2015/12/04/475304_img650x420_img650x420_crop.jpeg",AL manar TV
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
